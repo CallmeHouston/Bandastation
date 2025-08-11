@@ -524,9 +524,17 @@
 		// ores that get struck by thunder are smelted
 		// a bolt of lightning can reach temperatures of 30,000 Kelvin which is 5x hotter than the sun
 		hit_ore.fire_act(30000)
+		if(!hit_thing.uses_integrity)
+			continue
+		if(hit_thing.invisibility != INVISIBILITY_NONE)
+			continue
+		if(HAS_TRAIT(hit_thing, TRAIT_UNDERFLOOR))
+			continue
+		hit_thing.take_damage(20, BURN, ENERGY, FALSE)
 
-	playsound(weather_turf, 'sound/effects/magic/lightningbolt.ogg', 100, extrarange = 10, falloff_distance = 10)
+	playsound(weather_turf, 'sound/ambience/weather/rain/thunder.ogg', 100, extrarange = 10, falloff_distance = 10)
 	weather_turf.visible_message(span_danger("A thunderbolt strikes [weather_turf]!"))
+	explosion(weather_turf, flame_range = 1, silent = TRUE, adminlog = FALSE)
 	new /obj/effect/hotspot(weather_turf)
 
 /**
