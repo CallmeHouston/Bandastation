@@ -61,7 +61,7 @@ map wawastation
 endmap
 
 map waterbox
-	maxplayers 100
+	minplayers 25
 	votable
 endmap
 
