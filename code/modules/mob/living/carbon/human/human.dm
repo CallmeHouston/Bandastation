@@ -107,7 +107,7 @@
 		if(!same_id || (text2num(href_list["examine_time"]) + viable_time) < world.time)
 			to_chat(viewer, span_notice("У вас не настолько хорошая память. Осмотрите [ru_p_them()] еще раз."))
 			return
-		if(HAS_TRAIT(src, TRAIT_UNKNOWN_APPEARANCE))
+		if(!isobserver(viewer) && HAS_TRAIT(src, TRAIT_UNKNOWN_APPEARANCE))
 			to_chat(viewer, span_notice("Вы больше не можете разобрать ID-карту."))
 			return
 		if(!isobserver(viewer) && get_dist(viewer, src) > ID_EXAMINE_DISTANCE + 1) // leeway, ignored if the viewer is a ghost
@@ -192,8 +192,7 @@
 				var/status = ""
 				if(get_brute_loss())
 					to_chat(human_user, "<b>Анализ ушибов на коже:</b>")
-					for(var/X in bodyparts)
-						var/obj/item/bodypart/BP = X
+					for(var/obj/item/bodypart/BP as anything in get_bodyparts())
 						var/brutedamage = BP.brute_dam
 						if(brutedamage > 0)
 							status = "имеет незначительные ушибы."
@@ -208,8 +207,7 @@
 							to_chat(human_user, "<span class='[span]'>[capitalize(BP.declent_ru(NOMINATIVE))] [status]</span>")
 				if(get_fire_loss())
 					to_chat(human_user, "<b>Анализ ожогов на коже:</b>")
-					for(var/X in bodyparts)
-						var/obj/item/bodypart/BP = X
+					for(var/obj/item/bodypart/BP as anything in get_bodyparts())
 						var/burndamage = BP.burn_dam
 						if(burndamage > 0)
 							status = "имеет незначительные ожоги."
