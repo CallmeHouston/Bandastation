@@ -148,7 +148,7 @@
 
 	var/list/result = list()
 
-	result += "<div class='panel redborder'>...And <B>[members.len]</B> [backstory]s tried to hunt them down!"
+	result += "<div class='panel redborder'>...и <B>[members.len]</B> [backstory] пытался выследить их!"
 
 	for(var/datum/mind/M in members)
 		result += "<b>[printplayer(M)]</b>"
