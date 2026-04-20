@@ -142,7 +142,7 @@
 /obj/effect/turf_decal/stripes/red/end{
 	dir = 1
 	},
-/obj/structure/closet/secure_closet/gamma_armor,
+/obj/structure/closet/secure_closet/gamma_holy,
 /turf/open/floor/mineral/titanium,
 /area/shuttle/gamma)
 "Vv" = (
