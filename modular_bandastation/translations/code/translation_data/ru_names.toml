@@ -9501,14 +9501,6 @@ instrumental = "ручным экстрактором семян"
 prepositional = "ручном экстракторе семян"
 gender = "male"
 
-["strange seed pack"]
-nominative = "странные семена"
-genitive = "странных семян"
-dative = "странным семянам"
-accusative = "странные семена"
-instrumental = "странными семенами"
-prepositional = "странных семянах"
-
 ["botanist's leather gloves"]
 nominative = "кожаные перчатки ботаника"
 genitive = "кожаных перчаток ботаника"
@@ -9516,6 +9508,2563 @@ dative = "кожаным перчаткам ботаника"
 accusative = "кожаные перчатки ботаника"
 instrumental = "кожаными перчатками ботаника"
 prepositional = "кожаных перчатках ботаника"
+gender = "plural"
+
+# MARK: Seed/Plants
+
+["strange seed pack"]
+nominative = "странные семена"
+genitive = "странных семян"
+dative = "странным семянам"
+accusative = "странные семена"
+instrumental = "странными семенами"
+prepositional = "странных семянах"
+gender = "plural"
+
+["strange plant"]
+nominative = "странное растение"
+genitive = "странного растения"
+dative = "странному растению"
+accusative = "странное растение"
+instrumental = "странным растением"
+prepositional = "странном растении"
+gender = "neuter"
+
+["aloe seed pack"]
+nominative = "семена алоэ"
+genitive = "семян алоэ"
+dative = "семенам алоэ"
+accusative = "семена алоэ"
+instrumental = "семенами алоэ"
+prepositional = "семенах алоэ"
+gender = "plural"
+
+["aloe"]
+nominative = "алоэ"
+gender = "plural"
+
+["ambrosia branch"]
+nominative = "ветка амброзии"
+genitive = "ветки амброзии"
+dative = "ветке амброзии"
+accusative = "ветку амброзии"
+instrumental = "веткой амброзии"
+prepositional = "ветке амброзии"
+gender = "female"
+
+["ambrosia vulgaris seed pack"]
+nominative = "семена амброзии обыкновенной"
+genitive = "семян амброзии обыкновенной"
+dative = "семенам амброзии обыкновенной"
+accusative = "семена амброзии обыкновенной"
+instrumental = "семенами амброзии обыкновенной"
+prepositional = "семенах амброзии обыкновенной"
+gender = "plural"
+
+["ambrosia vulgaris branch"]
+nominative = "ветка амброзии обыкновенной"
+genitive = "ветки амброзии обыкновенной"
+dative = "ветке амброзии обыкновенной"
+accusative = "ветку амброзии обыкновенной"
+instrumental = "веткой амброзии обыкновенной"
+prepositional = "ветке амброзии обыкновенной"
+gender = "female"
+
+["ambrosia deus seed pack"]
+nominative = "семена амброзии божественной"
+genitive = "семян амброзии божественной"
+dative = "семенам амброзии божественной"
+accusative = "семена амброзии божественной"
+instrumental = "семенами амброзии божественной"
+prepositional = "семенах амброзии божественной"
+gender = "plural"
+
+["ambrosia deus branch"]
+nominative = "ветка амброзии божественной"
+genitive = "ветки амброзии божественной"
+dative = "ветке амброзии божественной"
+accusative = "ветку амброзии божественной"
+instrumental = "веткой амброзии божественной"
+prepositional = "ветке амброзии божественной"
+gender = "female"
+
+["ambrosia gaia seed pack"]
+nominative = "семена амброзии гайи"
+genitive = "семян амброзии гайи"
+dative = "семенам амброзии гайи"
+accusative = "семена амброзии гайи"
+instrumental = "семенами амброзии гайи"
+prepositional = "семенах амброзии гайи"
+gender = "plural"
+
+["ambrosia gaia branch"]
+nominative = "ветка амброзии гайи"
+genitive = "ветки амброзии гайи"
+dative = "ветке амброзии гайи"
+accusative = "ветку амброзии гайи"
+instrumental = "веткой амброзии гайи"
+prepositional = "ветке амброзии гайи"
+gender = "female"
+
+["apple seed pack"]
+nominative = "семена яблок"
+genitive = "семян яблок"
+dative = "семенам яблок"
+accusative = "семена яблок"
+instrumental = "семенами яблок"
+prepositional = "семенах яблок"
+gender = "plural"
+
+["apple"]
+nominative = "яблоко"
+genitive = "яблока"
+dative = "яблоку"
+accusative = "яблоко"
+instrumental = "яблоком"
+prepositional = "яблоке"
+gender = "neuter"
+
+["golden apple seed pack"]
+nominative = "семена золотых яблок"
+genitive = "семян золотых яблок"
+dative = "семенам золотых яблок"
+accusative = "семена золотых яблок"
+instrumental = "семенами золотых яблок"
+prepositional = "семенах золотых яблок"
+gender = "plural"
+
+["golden apple"]
+nominative = "золотое яблоко"
+genitive = "золотого яблока"
+dative = "золотому яблоку"
+accusative = "золотое яблоко"
+instrumental = "золотым яблоком"
+prepositional = "золотом яблоке"
+gender = "neuter"
+
+["banana seed pack"]
+nominative = "семена бананов"
+genitive = "семян бананов"
+dative = "семенам бананов"
+accusative = "семена бананов"
+instrumental = "семенами бананов"
+prepositional = "семенах бананов"
+gender = "plural"
+
+["banana"]
+nominative = "банан"
+genitive = "банана"
+dative = "банану"
+accusative = "банан"
+instrumental = "бананом"
+prepositional = "банане"
+gender = "male"
+
+["banana peel"]
+nominative = "банановая кожура"
+genitive = "банановой кожуры"
+dative = "банановой кожуре"
+accusative = "банановую кожуру"
+instrumental = "банановой кожурой"
+prepositional = "банановой кожуре"
+gender = "female"
+
+["mimana seed pack"]
+nominative = "семена миманов"
+genitive = "семян миманов"
+dative = "семенам миманов"
+accusative = "семена миманов"
+instrumental = "семенами миманов"
+prepositional = "семенах миманов"
+gender = "plural"
+
+["mimana"]
+nominative = "миман"
+genitive = "мимана"
+dative = "миману"
+accusative = "миман"
+instrumental = "миманом"
+prepositional = "мимане"
+gender = "male"
+
+["mimana peel"]
+nominative = "мимановая кожура"
+genitive = "мимановой кожуры"
+dative = "мимановой кожуре"
+accusative = "мимановую кожуру"
+instrumental = "мимановой кожурой"
+prepositional = "мимановой кожуре"
+gender = "female"
+
+["bluespace banana seed pack"]
+nominative = "семена блюспейс бананов"
+genitive = "семян блюспейс бананов"
+dative = "семенам блюспейс бананов"
+accusative = "семена блюспейс бананов"
+instrumental = "семенами блюспейс бананов"
+prepositional = "семенах блюспейс бананов"
+gender = "plural"
+
+["bluespace banana"]
+nominative = "блюспейс банан"
+genitive = "блюспейс банана"
+dative = "блюспейс банану"
+accusative = "блюспейс банан"
+instrumental = "блюспейс бананом"
+prepositional = "блюспейс банане"
+gender = "male"
+
+["bluespace banana peel"]
+nominative = "блюспейс банановая кожура"
+genitive = "блюспейс банановой кожуры"
+dative = "блюспейс банановой кожуре"
+accusative = "блюспейс банановую кожуру"
+instrumental = "блюспейс банановой кожурой"
+prepositional = "блюспейс банановой кожуре"
+gender = "female"
+
+["synthesized banana peel"]
+nominative = "синтезированная банановая кожура"
+genitive = "синтезированной банановой кожуры"
+dative = "синтезированной банановой кожуре"
+accusative = "синтезированную банановую кожуру"
+instrumental = "синтезированной банановой кожурой"
+prepositional = "синтезированной банановой кожуре"
+gender = "female"
+
+["banana bunch"]
+nominative = "гроздь бананов"
+genitive = "грозди бананов"
+dative = "грозди бананов"
+accusative = "гроздь бананов"
+instrumental = "гроздью бананов"
+prepositional = "грозди бананов"
+gender = "female"
+
+["soybean seed pack"]
+nominative = "семена соевых бобов"
+genitive = "семян соевых бобов"
+dative = "семенам соевых бобов"
+accusative = "семена соевых бобов"
+instrumental = "семенами соевых бобов"
+prepositional = "семенах соевых бобов"
+gender = "plural"
+
+["soybeans"]
+nominative = "соевые бобы"
+genitive = "соевых бобов"
+dative = "соевым бобам"
+accusative = "соевые бобы"
+instrumental = "соевыми бобами"
+prepositional = "соевых бобах"
+gender = "plural"
+
+["koibean seed pack"]
+nominative = "семена кои бобов"
+genitive = "семян кои бобов"
+dative = "семенам кои бобов"
+accusative = "семена кои бобов"
+instrumental = "семенами кои бобов"
+prepositional = "семенах кои бобов"
+gender = "plural"
+
+["koibean"]
+nominative = "кои бобы"
+genitive = "кои бобов"
+dative = "кои бобам"
+accusative = "кои бобы"
+instrumental = "кои бобами"
+prepositional = "кои бобах"
+gender = "plural"
+
+["butterbean seed pack"]
+nominative = "семена сливочных бобов"
+genitive = "семян сливочных бобов"
+dative = "семенам сливочных бобов"
+accusative = "семена сливочных бобов"
+instrumental = "семенами сливочных бобов"
+prepositional = "семенах сливочных бобов"
+gender = "plural"
+
+["butterbean"]
+nominative = "сливочные бобы"
+genitive = "сливочных бобов"
+dative = "сливочным бобам"
+accusative = "сливочные бобы"
+instrumental = "сливочными бобами"
+prepositional = "сливочных бобах"
+gender = "plural"
+
+["green bean seed pack"]
+nominative = "семена зелёной фасоли"
+genitive = "семян зелёной фасоли"
+dative = "семенам зелёной фасоли"
+accusative = "семена зелёной фасоли"
+instrumental = "семенами зелёной фасоли"
+prepositional = "семенах зелёной фасоли"
+gender = "plural"
+
+["green beans"]
+nominative = "зелёная фасоль"
+genitive = "зелёной фасоли"
+dative = "зелёной фасоли"
+accusative = "зелёную фасоль"
+instrumental = "зелёной фасолью"
+prepositional = "зелёной фасоли"
+gender = "female"
+
+["jumping bean seed pack"]
+nominative = "семена прыгающего боба"
+genitive = "семян прыгающего боба"
+dative = "семенам прыгающего боба"
+accusative = "семена прыгающего боба"
+instrumental = "семенами прыгающего боба"
+prepositional = "семенах прыгающего боба"
+gender = "plural"
+
+["jumping bean"]
+nominative = "прыгающий боб"
+genitive = "прыгающего боба"
+dative = "прыгающему бобу"
+accusative = "прыгающий боб"
+instrumental = "прыгающим бобом"
+prepositional = "прыгающем бобе"
+gender = "male"
+
+["berry seed pack"]
+nominative = "семена ягод"
+genitive = "семян ягод"
+dative = "семенам ягод"
+accusative = "семена ягод"
+instrumental = "семенами ягод"
+prepositional = "семенах ягод"
+gender = "plural"
+
+["bunch of berries"]
+nominative = "гроздь ягод"
+genitive = "грозди ягод"
+dative = "грозди ягод"
+accusative = "гроздь ягод"
+instrumental = "гроздью ягод"
+prepositional = "грозди ягод"
+gender = "female"
+
+["poison-berry seed pack"]
+nominative = "семена ядовитых ягод"
+genitive = "семян ядовитых ягод"
+dative = "семенам ядовитых ягод"
+accusative = "семена ядовитых ягод"
+instrumental = "семенами ядовитых ягод"
+prepositional = "семенах ядовитых ягод"
+gender = "plural"
+
+["bunch of poison-berries"]
+nominative = "гроздь ядовитых ягод"
+genitive = "грозди ядовитых ягод"
+dative = "грозди ядовитых ягод"
+accusative = "гроздь ядовитых ягод"
+instrumental = "гроздью ядовитых ягод"
+prepositional = "грозди ядовитых ягод"
+gender = "female"
+
+["death-berry seed pack"]
+nominative = "семена ягод смерти"
+genitive = "семян ягод смерти"
+dative = "семенам ягод смерти"
+accusative = "семена ягод смерти"
+instrumental = "семенами ягод смерти"
+prepositional = "семенах ягод смерти"
+gender = "plural"
+
+["bunch of death-berries"]
+nominative = "гроздь ягод смерти"
+genitive = "грозди ягод смерти"
+dative = "грозди ягод смерти"
+accusative = "гроздь ягод смерти"
+instrumental = "гроздью ягод смерти"
+prepositional = "грозди ягод смерти"
+gender = "female"
+
+["glow-berry seed pack"]
+nominative = "семена светящихся ягод"
+genitive = "семян светящихся ягод"
+dative = "семенам светящихся ягод"
+accusative = "семена светящихся ягод"
+instrumental = "семенами светящихся ягод"
+prepositional = "семенах светящихся ягод"
+gender = "plural"
+
+["bunch of glow-berries"]
+nominative = "гроздь светящихся ягод"
+genitive = "грозди светящихся ягод"
+dative = "грозди светящихся ягод"
+accusative = "гроздь светящихся ягод"
+instrumental = "гроздью светящихся ягод"
+prepositional = "грозди светящихся ягод"
+gender = "female"
+
+["grape seed pack"]
+nominative = "семена винограда"
+genitive = "семян винограда"
+dative = "семенам винограда"
+accusative = "семена винограда"
+instrumental = "семенами винограда"
+prepositional = "семенах винограда"
+gender = "plural"
+
+["bunch of grapes"]
+nominative = "гроздь винограда"
+genitive = "грозди винограда"
+dative = "грозди винограда"
+accusative = "гроздь винограда"
+instrumental = "гроздью винограда"
+prepositional = "грозди винограда"
+gender = "female"
+
+["green grape seed pack"]
+nominative = "семена зелёного винограда"
+genitive = "семян зелёного винограда"
+dative = "семенам зелёного винограда"
+accusative = "семена зелёного винограда"
+instrumental = "семенами зелёного винограда"
+prepositional = "семенах зелёного винограда"
+gender = "plural"
+
+["bunch of green grapes"]
+nominative = "гроздь зелёного винограда"
+genitive = "грозди зелёного винограда"
+dative = "грозди зелёного винограда"
+accusative = "гроздь зелёного винограда"
+instrumental = "гроздью зелёного винограда"
+prepositional = "грозди зелёного винограда"
+gender = "female"
+
+["töchtaüse berry seed pack"]
+nominative = "семена тводетсека"
+genitive = "семян тводетсека"
+dative = "семенам тводетсека"
+accusative = "семена тводетсека"
+instrumental = "семенами тводетсека"
+prepositional = "семенах тводетсека"
+gender = "plural"
+
+["töchtaüse berries"]
+nominative = "ягоды тводетсека"
+genitive = "ягод тводетсека"
+dative = "ягодам тводетсека"
+accusative = "ягоды тводетсека"
+instrumental = "ягодами тводетсека"
+prepositional = "ягодах тводетсека"
+gender = "female"
+
+["lanternfruit seed pack"]
+nominative = "семена лампофрукта"
+genitive = "семян лампофрукта"
+dative = "семенам лампофрукта"
+accusative = "семена лампофрукта"
+instrumental = "семенами лампофрукта"
+prepositional = "семенах лампофрукта"
+gender = "plural"
+
+["lanternfruits"]
+nominative = "лампофрукты"
+genitive = "лампофруктов"
+dative = "лампофруктам"
+accusative = "лампофрукты"
+instrumental = "лампофруктами"
+prepositional = "лампофруктах"
+gender = "plural"
+
+["cannabis seed pack"]
+nominative = "семена каннабиса"
+genitive = "семян каннабиса"
+dative = "семенам каннабиса"
+accusative = "семена каннабиса"
+instrumental = "семенами каннабиса"
+prepositional = "семенах каннабиса"
+gender = "plural"
+
+["cannabis leaf"]
+nominative = "лист каннабиса"
+genitive = "листа каннабиса"
+dative = "листу каннабиса"
+accusative = "лист каннабиса"
+instrumental = "листом каннабиса"
+prepositional = "листе каннабиса"
+gender = "male"
+
+["rainbow weed seed pack"]
+nominative = "семена радужной травки"
+genitive = "семян радужной травки"
+dative = "семенам радужной травки"
+accusative = "семена радужной травки"
+instrumental = "семенами радужной травки"
+prepositional = "семенах радужной травки"
+gender = "plural"
+
+["rainbow cannabis leaf"]
+nominative = "лист радужного каннабиса"
+genitive = "листа радужного каннабиса"
+dative = "листу радужного каннабиса"
+accusative = "лист радужного каннабиса"
+instrumental = "листом радужного каннабиса"
+prepositional = "листе радужного каннабиса"
+gender = "male"
+
+["deathweed seed pack"]
+nominative = "семена смертотравки"
+genitive = "семян смертотравки"
+dative = "семенам смертотравки"
+accusative = "семена смертотравки"
+instrumental = "семенами смертотравки"
+prepositional = "семенах смертотравки"
+gender = "plural"
+
+["death cannabis leaf"]
+nominative = "лист смертельного каннабиса"
+genitive = "листа смертельного каннабиса"
+dative = "листу смертельного каннабиса"
+accusative = "лист смертельного каннабиса"
+instrumental = "листом смертельного каннабиса"
+prepositional = "листе смертельного каннабиса"
+gender = "male"
+
+["lifeweed seed pack"]
+nominative = "семена жизнетравки"
+genitive = "семян жизнетравки"
+dative = "семенам жизнетравки"
+accusative = "семена жизнетравки"
+instrumental = "семенами жизнетравки"
+prepositional = "семенах жизнетравки"
+gender = "plural"
+
+["white cannabis leaf"]
+nominative = "лист белого каннабиса"
+genitive = "листа белого каннабиса"
+dative = "листу белого каннабиса"
+accusative = "лист белого каннабиса"
+instrumental = "листом белого каннабиса"
+prepositional = "листе белого каннабиса"
+gender = "male"
+
+["omega weed seed pack"]
+nominative = "семена омега травки"
+genitive = "семян омега травки"
+dative = "семенам омега травки"
+accusative = "семена омега травки"
+instrumental = "семенами омега травки"
+prepositional = "семенах омега травки"
+gender = "plural"
+
+["omega cannabis leaf"]
+nominative = "лист омега каннабиса"
+genitive = "листа омега каннабиса"
+dative = "листу омега каннабиса"
+accusative = "лист омега каннабиса"
+instrumental = "листом омега каннабиса"
+prepositional = "листе омега каннабиса"
+gender = "male"
+
+["anti weed seed pack"]
+nominative = "семена анти травки"
+genitive = "семян анти травки"
+dative = "семенам анти травки"
+accusative = "семена анти травки"
+instrumental = "семенами анти травки"
+prepositional = "семенах анти травки"
+gender = "plural"
+
+["anti cannabis leaf"]
+nominative = "лист анти каннабиса"
+genitive = "листа анти каннабиса"
+dative = "листу анти каннабиса"
+accusative = "лист анти каннабиса"
+instrumental = "листом анти каннабиса"
+prepositional = "листе анти каннабиса"
+gender = "male"
+
+["wheat seed pack"]
+nominative = "семена пшеницы"
+genitive = "семян пшеницы"
+dative = "семенам пшеницы"
+accusative = "семена пшеницы"
+instrumental = "семенами пшеницы"
+prepositional = "семенах пшеницы"
+gender = "plural"
+
+["wheat"]
+nominative = "пшеница"
+genitive = "пшеницы"
+dative = "пшенице"
+accusative = "пшеницу"
+instrumental = "пшеницей"
+prepositional = "пшенице"
+gender = "female"
+
+["oat seed pack"]
+nominative = "семена овса"
+genitive = "семян овса"
+dative = "семенам овса"
+accusative = "семена овса"
+instrumental = "семенами овса"
+prepositional = "семенах овса"
+gender = "plural"
+
+["oat"]
+nominative = "овёс"
+genitive = "овса"
+dative = "овсу"
+accusative = "овёс"
+instrumental = "овсом"
+prepositional = "овсе"
+gender = "male"
+
+["rice seed pack"]
+nominative = "семена риса"
+genitive = "семян риса"
+dative = "семенам риса"
+accusative = "семена риса"
+instrumental = "семенами риса"
+prepositional = "семенах риса"
+gender = "plural"
+
+["rice"]
+nominative = "рис"
+genitive = "риса"
+dative = "рису"
+accusative = "рис"
+instrumental = "рисом"
+prepositional = "рисе"
+gender = "male"
+
+["meatwheat seed pack"]
+nominative = "семена мясной пшеницы"
+genitive = "семян мясной пшеницы"
+dative = "семенам мясной пшеницы"
+accusative = "семена мясной пшеницы"
+instrumental = "семенами мясной пшеницы"
+prepositional = "семенах мясной пшеницы"
+gender = "plural"
+
+["meatwheat"]
+nominative = "мясная пшеница"
+genitive = "мясной пшеницы"
+dative = "мясной пшенице"
+accusative = "мясную пшеницу"
+instrumental = "мясной пшеницей"
+prepositional = "мясной пшенице"
+gender = "female"
+
+["cherry pit pack"]
+nominative = "вишнёвые косточки"
+genitive = "вишнёвых косточек"
+dative = "вишнёвым косточкам"
+accusative = "вишнёвые косточки"
+instrumental = "вишнёвыми косточками"
+prepositional = "вишнёвых косточках"
+gender = "plural"
+
+["cherries"]
+nominative = "вишни"
+genitive = "вишен"
+dative = "вишням"
+accusative = "вишни"
+instrumental = "вишнями"
+prepositional = "вишнях"
+gender = "plural"
+
+["blue cherry pit pack"]
+nominative = "синие вишнёвые косточки"
+genitive = "синих вишнёвых косточек"
+dative = "синим вишнёвым косточкам"
+accusative = "синие вишнёвые косточки"
+instrumental = "синими вишнёвыми косточками"
+prepositional = "синих вишнёвых косточках"
+gender = "plural"
+
+["blue cherries"]
+nominative = "синие вишни"
+genitive = "синих вишен"
+dative = "синим вишням"
+accusative = "синие вишни"
+instrumental = "синими вишнями"
+prepositional = "синих вишнях"
+gender = "plural"
+
+["cherry bulb pit pack"]
+nominative = "косточки вишнёвых луковиц"
+genitive = "косточек вишнёвых луковиц"
+dative = "косточкам вишнёвых луковиц"
+accusative = "косточки вишнёвых луковиц"
+instrumental = "косточками вишнёвых луковиц"
+prepositional = "косточках вишнёвых луковиц"
+gender = "plural"
+
+["cherry bulb"]
+nominative = "луковица вишни"
+genitive = "луковицы вишни"
+dative = "луковице вишни"
+accusative = "луковицу вишни"
+instrumental = "луковицей вишни"
+prepositional = "луковице вишни"
+gender = "female"
+
+["cherry bomb pit pack"]
+nominative = "косточки вишнёвых бомб"
+genitive = "косточек вишнёвых бомб"
+dative = "косточкам вишнёвых бомб"
+accusative = "косточки вишнёвых бомб"
+instrumental = "косточками вишнёвых бомб"
+prepositional = "косточках вишнёвых бомб"
+gender = "plural"
+
+["cherry bombs"]
+nominative = "вишнёвые бомбы"
+genitive = "вишнёвых бомб"
+dative = "вишнёвым бомбам"
+accusative = "вишнёвые бомбы"
+instrumental = "вишнёвыми бомбами"
+prepositional = "вишнёвых бомбах"
+gender = "plural"
+
+["chili seed pack"]
+nominative = "семена чили"
+genitive = "семян чили"
+dative = "семенам чили"
+accusative = "семена чили"
+instrumental = "семенами чили"
+prepositional = "семенах чили"
+gender = "plural"
+
+["chili"]
+nominative = "чили"
+gender = "male"
+
+["chilly pepper seed pack"]
+nominative = "семена прохладного перца"
+genitive = "семян прохладного перца"
+dative = "семенам прохладного перца"
+accusative = "семена прохладного перца"
+instrumental = "семенами прохладного перца"
+prepositional = "семенах прохладного перца"
+gender = "plural"
+
+["chilly pepper"]
+nominative = "прохладный перец"
+genitive = "прохладного перца"
+dative = "прохладному перцу"
+accusative = "прохладный перец"
+instrumental = "прохладным перцем"
+prepositional = "прохладном перце"
+gender = "male"
+
+["ghost chili seed pack"]
+nominative = "семена призрачного чили"
+genitive = "семян призрачного чили"
+dative = "семенам призрачного чили"
+accusative = "семена призрачного чили"
+instrumental = "семенами призрачного чили"
+prepositional = "семенах призрачного чили"
+gender = "plural"
+
+["ghost chili"]
+nominative = "призрачный чили"
+genitive = "призрачного чили"
+dative = "призрачному чили"
+accusative = "призрачный чили"
+instrumental = "призрачным чили"
+prepositional = "призрачном чили"
+gender = "male"
+
+["bell pepper seed pack"]
+nominative = "семена болгарского перца"
+genitive = "семян болгарского перца"
+dative = "семенам болгарского перца"
+accusative = "семена болгарского перца"
+instrumental = "семенами болгарского перца"
+prepositional = "семенах болгарского перца"
+gender = "plural"
+
+["bell pepper"]
+nominative = "болгарский перец"
+genitive = "болгарского перца"
+dative = "болгарскому перцу"
+accusative = "болгарский перец"
+instrumental = "болгарским перцем"
+prepositional = "болгарском перце"
+gender = "male"
+
+["lime seed pack"]
+nominative = "семена лайма"
+genitive = "семян лайма"
+dative = "семенам лайма"
+accusative = "семена лайма"
+instrumental = "семенами лайма"
+prepositional = "семенах лайма"
+gender = "plural"
+
+["lime"]
+nominative = "лайм"
+genitive = "лайма"
+dative = "лайму"
+accusative = "лайм"
+instrumental = "лаймом"
+prepositional = "лайме"
+gender = "male"
+
+["orange seed pack"]
+nominative = "семена апельсина"
+genitive = "семян апельсина"
+dative = "семенам апельсина"
+accusative = "семена апельсина"
+instrumental = "семенами апельсина"
+prepositional = "семенах апельсина"
+gender = "plural"
+
+["orange"]
+nominative = "апельсин"
+genitive = "апельсина"
+dative = "апельсину"
+accusative = "апельсин"
+instrumental = "апельсином"
+prepositional = "апельсине"
+gender = "male"
+
+["lemon seed pack"]
+nominative = "семена лимона"
+genitive = "семян лимона"
+dative = "семенам лимона"
+accusative = "семена лимона"
+instrumental = "семенами лимона"
+prepositional = "семенах лимона"
+gender = "plural"
+
+["lemon"]
+nominative = "лимон"
+genitive = "лимона"
+dative = "лимону"
+accusative = "лимон"
+instrumental = "лимоном"
+prepositional = "лимоне"
+gender = "male"
+
+["combustible lemon seed pack"]
+nominative = "семена горючего лимона"
+genitive = "семян горючего лимона"
+dative = "семенам горючего лимона"
+accusative = "семена горючего лимона"
+instrumental = "семенами горючего лимона"
+prepositional = "семенах горючего лимона"
+gender = "plural"
+
+["Combustible Lemon"]
+nominative = "горючий лимон"
+genitive = "горючего лимона"
+dative = "горючему лимону"
+accusative = "горючий лимон"
+instrumental = "горючим лимоном"
+prepositional = "горючем лимоне"
+gender = "male"
+
+["extradimensional orange seed pack"]
+nominative = "семена внепространственного апельсина"
+genitive = "семян внепространственного апельсина"
+dative = "семенам внепространственного апельсина"
+accusative = "семена внепространственного апельсина"
+instrumental = "семенами внепространственного апельсина"
+prepositional = "семенах внепространственного апельсина"
+gender = "plural"
+
+["extradimensional orange"]
+nominative = "внепространственный апельсин"
+genitive = "внепространственного апельсина"
+dative = "внепространственному апельсину"
+accusative = "внепространственный апельсин"
+instrumental = "внепространственным апельсином"
+prepositional = "внепространственном апельсине"
+gender = "male"
+
+["cocoa pod seed pack"]
+nominative = "семена стручков какао"
+genitive = "семян стручков какао"
+dative = "семенам стручков какао"
+accusative = "семена стручков какао"
+instrumental = "семенами стручков какао"
+prepositional = "семенах стручков какао"
+gender = "plural"
+
+["cocoa pod"]
+nominative = "стручок какао"
+genitive = "стручка какао"
+dative = "стручку какао"
+accusative = "стручок какао"
+instrumental = "стручком какао"
+prepositional = "стручке какао"
+gender = "male"
+
+["vanilla pod seed pack"]
+nominative = "семена стручков ванили"
+genitive = "семян стручков ванили"
+dative = "семенам стручков ванили"
+accusative = "семена стручков ванили"
+instrumental = "семенами стручков ванили"
+prepositional = "семенах стручков ванили"
+gender = "plural"
+
+["vanilla pod"]
+nominative = "стручок ванили"
+genitive = "стручка ванили"
+dative = "стручку ванили"
+accusative = "стручок ванили"
+instrumental = "стручком ванили"
+prepositional = "стручке ванили"
+gender = "male"
+
+["bungo tree seed pack"]
+nominative = "семена дерева бунго"
+genitive = "семян дерева бунго"
+dative = "семенам дерева бунго"
+accusative = "семена дерева бунго"
+instrumental = "семенами дерева бунго"
+prepositional = "семенах дерева бунго"
+gender = "plural"
+
+["bungo fruit"]
+nominative = "плод бунго"
+genitive = "плода бунго"
+dative = "плоду бунго"
+accusative = "плод бунго"
+instrumental = "плодом бунго"
+prepositional = "плоде бунго"
+gender = "male"
+
+["bungo pit"]
+nominative = "косточка бунго"
+genitive = "косточки бунго"
+dative = "косточке бунго"
+accusative = "косточку бунго"
+instrumental = "косточкой бунго"
+prepositional = "косточке бунго"
+gender = "male"
+
+["corn seed pack"]
+nominative = "семена кукурузы"
+genitive = "семян кукурузы"
+dative = "семенам кукурузы"
+accusative = "семена кукурузы"
+instrumental = "семенами кукурузы"
+prepositional = "семенах кукурузы"
+gender = "plural"
+
+["ear of corn"]
+nominative = "початок кукурузы"
+genitive = "початка кукурузы"
+dative = "початку кукурузы"
+accusative = "початок кукурузы"
+instrumental = "початком кукурузы"
+prepositional = "початке кукурузы"
+gender = "male"
+
+["corn cob"]
+nominative = "кукурузный початок"
+genitive = "кукурузного початка"
+dative = "кукурузному початку"
+accusative = "кукурузный початок"
+instrumental = "кукурузным початком"
+prepositional = "кукурузном початке"
+gender = "male"
+
+["snapcorn seed pack"]
+nominative = "семена хрустящей кукурузы"
+genitive = "семян хрустящей кукурузы"
+dative = "семенам хрустящей кукурузы"
+accusative = "семена хрустящей кукурузы"
+instrumental = "семенами хрустящей кукурузы"
+prepositional = "семенах хрустящей кукурузы"
+gender = "plural"
+
+["snap corn"]
+nominative = "хрустящая кукуруза"
+genitive = "хрустящей кукурузы"
+dative = "хрустящей кукурузе"
+accusative = "хрустящую кукурузу"
+instrumental = "хрустящей кукурузой"
+prepositional = "хрустящей кукурузе"
+gender = "female"
+
+["snap corn cob"]
+nominative = "хрустящий кукурузный початок"
+genitive = "хрустящего кукурузного початка"
+dative = "хрустящему кукурузному початку"
+accusative = "хрустящий кукурузный початок"
+instrumental = "хрустящим кукурузным початком"
+prepositional = "хрустящем кукурузном початке"
+gender = "male"
+
+["pepper-corn seed pack"]
+nominative = "семена перечной кукурузы"
+genitive = "семян перечной кукурузы"
+dative = "семенам перечной кукурузы"
+accusative = "семена перечной кукурузы"
+instrumental = "семенами перечной кукурузы"
+prepositional = "семенах перечной кукурузы"
+gender = "plural"
+
+["ear of pepper-peppercorn"]
+nominative = "початок перечной кукурузы"
+genitive = "початка перечной кукурузы"
+dative = "початку перечной кукурузы"
+accusative = "початок перечной кукурузы"
+instrumental = "початком перечной кукурузы"
+prepositional = "початке перечной кукурузы"
+gender = "male"
+
+["pepper corn cob"]
+nominative = "перечно‑кукурузный початок"
+genitive = "перечно‑кукурузного початка"
+dative = "перечно‑кукурузному початку"
+accusative = "перечно‑кукурузный початок"
+instrumental = "перечно‑кукурузным початком"
+prepositional = "перечно‑кукурузном початке"
+gender = "male"
+
+["cotton seed pack"]
+nominative = "семена хлопка"
+genitive = "семян хлопка"
+dative = "семенам хлопка"
+accusative = "семена хлопка"
+instrumental = "семенами хлопка"
+prepositional = "семенах хлопка"
+gender = "plural"
+
+["cotton bundle"]
+nominative = "пучок хлопка"
+genitive = "пучка хлопка"
+dative = "пучку хлопка"
+accusative = "пучок хлопка"
+instrumental = "пучком хлопка"
+prepositional = "пучком хлопка"
+gender = "female"
+
+["durathread seed pack"]
+nominative = "семена дюрахлопка"
+genitive = "семян дюрахлопка"
+dative = "семенам дюрахлопка"
+accusative = "семена дюрахлопка"
+instrumental = "семенами дюрахлопка"
+prepositional = "семенах дюрахлопка"
+gender = "plural"
+
+["durathread bundle"]
+nominative = "пучок дюрахлопка"
+genitive = "пучка дюрахлопка"
+dative = "пучку дюрахлопка"
+accusative = "пучок дюрахлопка"
+instrumental = "пучком дюрахлопка"
+prepositional = "пучком дюрахлопка"
+gender = "female"
+
+["cucumber seed pack"]
+nominative = "семена огурца"
+genitive = "семян огурца"
+dative = "семенам огурца"
+accusative = "семена огурца"
+instrumental = "семенами огурца"
+prepositional = "семенах огурца"
+gender = "plural"
+
+["cucumber"]
+nominative = "огурец"
+genitive = "огурца"
+dative = "огурцу"
+accusative = "огурец"
+instrumental = "огурцом"
+prepositional = "огурце"
+gender = "male"
+
+["eggplant seed pack"]
+nominative = "семена баклажана"
+genitive = "семян баклажана"
+dative = "семенам баклажана"
+accusative = "семена баклажана"
+instrumental = "семенами баклажана"
+prepositional = "семенах баклажана"
+gender = "plural"
+
+["eggplant"]
+nominative = "баклажан"
+genitive = "баклажана"
+dative = "баклажану"
+accusative = "баклажан"
+instrumental = "баклажаном"
+prepositional = "баклажане"
+gender = "male"
+
+["egg-plant seed pack"]
+nominative = "семена яйцлажана"
+genitive = "семян яйцлажана"
+dative = "семенам яйцлажана"
+accusative = "семена яйцлажана"
+instrumental = "семенами яйцлажана"
+prepositional = "семенах яйцлажана"
+gender = "plural"
+
+["egg-plant"]
+nominative = "яйцлажан"
+genitive = "яйцлажана"
+dative = "яйцлажану"
+accusative = "яйцлажан"
+instrumental = "яйцлажаном"
+prepositional = "яйцлажане"
+gender = "male"
+
+["poppy seed pack"]
+nominative = "семена мака"
+genitive = "семян мака"
+dative = "семенам мака"
+accusative = "семена мака"
+instrumental = "семенами мака"
+prepositional = "семенах мака"
+gender = "plural"
+
+["poppy"]
+nominative = "мак"
+genitive = "мака"
+dative = "маку"
+accusative = "мак"
+instrumental = "маком"
+prepositional = "маке"
+gender = "male"
+
+["lily seed pack"]
+nominative = "семена лилии"
+genitive = "семян лилии"
+dative = "семенам лилии"
+accusative = "семена лилии"
+instrumental = "семенами лилии"
+prepositional = "семенах лилии"
+gender = "plural"
+
+["lily"]
+nominative = "лилия"
+genitive = "лилии"
+dative = "лилии"
+accusative = "лилию"
+instrumental = "лилией"
+prepositional = "лилии"
+gender = "female"
+
+["spaceman's trumpet seed pack"]
+nominative = "семена трубы космонавта"
+genitive = "семян трубы космонавта"
+dative = "семенам трубы космонавта"
+accusative = "семена трубы космонавта"
+instrumental = "семенами трубы космонавта"
+prepositional = "семенах трубы космонавта"
+gender = "plural"
+
+["spaceman's trumpet"]
+nominative = "труба космонавта"
+genitive = "трубы космонавта"
+dative = "трубе космонавта"
+accusative = "трубу космонавта"
+instrumental = "трубой космонавта"
+prepositional = "трубе космонавта"
+gender = "female"
+
+["geranium seed pack"]
+nominative = "семена герани"
+genitive = "семян герани"
+dative = "семенам герани"
+accusative = "семена герани"
+instrumental = "семенами герани"
+prepositional = "семенах герани"
+gender = "plural"
+
+["geranium"]
+nominative = "герань"
+genitive = "герани"
+dative = "герани"
+accusative = "герань"
+instrumental = "геранью"
+prepositional = "герани"
+gender = "female"
+
+["fraxinella seed pack"]
+nominative = "семена ясенца"
+genitive = "семян ясенца"
+dative = "семенам ясенца"
+accusative = "семена ясенца"
+instrumental = "семенами ясенца"
+prepositional = "семенах ясенца"
+gender = "plural"
+
+["fraxinella"]
+nominative = "ясенец"
+genitive = "ясенца"
+dative = "ясенцу"
+accusative = "ясенец"
+instrumental = "ясенцем"
+prepositional = "ясенце"
+gender = "male"
+
+["harebell seed pack"]
+nominative = "семена колокольчика"
+genitive = "семян колокольчика"
+dative = "семенам колокольчика"
+accusative = "семена колокольчика"
+instrumental = "семенами колокольчика"
+prepositional = "семенах колокольчика"
+gender = "plural"
+
+["harebell"]
+nominative = "колокольчик"
+genitive = "колокольчика"
+dative = "колокольчику"
+accusative = "колокольчик"
+instrumental = "колокольчиком"
+prepositional = "колокольчике"
+gender = "male"
+
+["sunflower seed pack"]
+nominative = "семена подсолнуха"
+genitive = "семян подсолнуха"
+dative = "семенам подсолнуха"
+accusative = "семена подсолнуха"
+instrumental = "семенами подсолнуха"
+prepositional = "семенах подсолнуха"
+gender = "plural"
+
+["sunflower"]
+nominative = "подсолнух"
+genitive = "подсолнуха"
+dative = "подсолнуху"
+accusative = "подсолнух"
+instrumental = "подсолнухом"
+prepositional = "подсолнухе"
+gender = "male"
+
+["moonflower seed pack"]
+nominative = "семена луноцвета"
+genitive = "семян луноцвета"
+dative = "семенам луноцвета"
+accusative = "семена луноцвета"
+instrumental = "семенами луноцвета"
+prepositional = "семенах луноцвета"
+gender = "plural"
+
+["moonflower"]
+nominative = "луноцвет"
+genitive = "луноцвета"
+dative = "луноцвету"
+accusative = "луноцвет"
+instrumental = "луноцветом"
+prepositional = "луноцвете"
+gender = "male"
+
+["novaflower seed pack"]
+nominative = "семена новоцвета"
+genitive = "семян новоцвета"
+dative = "семенам новоцвета"
+accusative = "семена новоцвета"
+instrumental = "семенами новоцвета"
+prepositional = "семенах новоцвета"
+gender = "plural"
+
+["novaflower"]
+nominative = "новоцвет"
+genitive = "новоцвета"
+dative = "новоцвету"
+accusative = "новоцвет"
+instrumental = "новоцветом"
+prepositional = "новоцвете"
+gender = "male"
+
+["rose seed pack"]
+nominative = "семена розы"
+genitive = "семян розы"
+dative = "семенам розы"
+accusative = "семена розы"
+instrumental = "семенами розы"
+prepositional = "семенах розы"
+gender = "plural"
+
+["rose"]
+nominative = "роза"
+genitive = "розы"
+dative = "розе"
+accusative = "розу"
+instrumental = "розой"
+prepositional = "розе"
+gender = "female"
+
+["carbon rose seed pack"]
+nominative = "семена карбоновой розы"
+genitive = "семян карбоновой розы"
+dative = "семенам карбоновой розы"
+accusative = "семена карбоновой розы"
+instrumental = "семенами карбоновой розы"
+prepositional = "семенах карбоновой розы"
+gender = "plural"
+
+["carbon rose"]
+nominative = "карбоновая роза"
+genitive = "карбоновой розы"
+dative = "карбоновой розе"
+accusative = "карбоновую розу"
+instrumental = "карбоновой розой"
+prepositional = "карбоновой розе"
+gender = "female"
+
+["garlic seed pack"]
+nominative = "семена чеснока"
+genitive = "семян чеснока"
+dative = "семенам чеснока"
+accusative = "семена чеснока"
+instrumental = "семенами чеснока"
+prepositional = "семенах чеснока"
+gender = "plural"
+
+["garlic"]
+nominative = "чеснок"
+genitive = "чеснока"
+dative = "чесноку"
+accusative = "чеснок"
+instrumental = "чесноком"
+prepositional = "чесноке"
+gender = "male"
+
+["gatfruit seed pack"]
+nominative = "семена гатфрута"
+genitive = "семян гатфрута"
+dative = "семенам гатфрута"
+accusative = "семена гатфрута"
+instrumental = "семенами гатфрута"
+prepositional = "семенах гатфрута"
+gender = "plural"
+
+["gatfruit"]
+nominative = "гатфрут"
+genitive = "гатфрута"
+dative = "гатфруту"
+accusative = "гатфрут"
+instrumental = "гатфрутом"
+prepositional = "гатфруте"
+gender = "male"
+
+["grass seed pack"]
+nominative = "семена травы"
+genitive = "семян травы"
+dative = "семенам травы"
+accusative = "семена травы"
+instrumental = "семенами травы"
+prepositional = "семенах травы"
+gender = "plural"
+
+["grass"]
+nominative = "трава"
+genitive = "травы"
+dative = "траве"
+accusative = "траву"
+instrumental = "травой"
+prepositional = "траве"
+gender = "female"
+
+["fairygrass seed pack"]
+nominative = "семена сказочной травы"
+genitive = "семян сказочной травы"
+dative = "семенам сказочной травы"
+accusative = "семена сказочной травы"
+instrumental = "семенами сказочной травы"
+prepositional = "семенах сказочной травы"
+gender = "plural"
+
+["fairygrass"]
+nominative = "сказочная трава"
+genitive = "сказочной травы"
+dative = "сказочной траве"
+accusative = "сказочную траву"
+instrumental = "сказочной травой"
+prepositional = "сказочной траве"
+gender = "female"
+
+["carpet seed pack"]
+nominative = "семена ковра"
+genitive = "семян ковра"
+dative = "семенам ковра"
+accusative = "семена ковра"
+instrumental = "семенами ковра"
+prepositional = "семенах ковра"
+gender = "plural"
+
+["carpet"]
+nominative = "ковёр"
+genitive = "ковра"
+dative = "ковру"
+accusative = "ковёр"
+instrumental = "ковром"
+prepositional = "ковре"
+gender = "male"
+
+["shrub seed pack"]
+nominative = "семена кустарника"
+genitive = "семян кустарника"
+dative = "семенам кустарника"
+accusative = "семена кустарника"
+instrumental = "семенами кустарника"
+prepositional = "семенах кустарника"
+gender = "plural"
+
+["shrub"]
+nominative = "кустарник"
+genitive = "кустарника"
+dative = "кустарнику"
+accusative = "кустарник"
+instrumental = "кустарником"
+prepositional = "о кустарнике"
+gender = "male"
+
+["hedge"]
+nominative = "живая изгородь"
+genitive = "живой изгороди"
+dative = "живой изгороди"
+accusative = "живую изгородь"
+instrumental = "живой изгородью"
+prepositional = "живой изгороди"
+gender = "female"
+
+["organ tree seed pack"]
+nominative = "семена дерева органов"
+genitive = "семян дерева органов"
+dative = "семенам дерева органов"
+accusative = "семена дерева органов"
+instrumental = "семенами дерева органов"
+prepositional = "семенах дерева органов"
+gender = "plural"
+
+["organ tree"]
+nominative = "дерево органов"
+genitive = "дерева органов"
+dative = "дереву органов"
+accusative = "дерево органов"
+instrumental = "деревом органов"
+prepositional = "дереве органов"
+gender = "neuter"
+
+["herb seed pack"]
+nominative = "семена зелени"
+genitive = "семян зелени"
+dative = "семенам зелени"
+accusative = "семена зелени"
+instrumental = "семенами зелени"
+prepositional = "семенах зелени"
+gender = "plural"
+
+["bundle of herbs"]
+nominative = "пучок зелени"
+genitive = "пучка зелени"
+dative = "пучку зелени"
+accusative = "пучок зелени"
+instrumental = "пучком зелени"
+prepositional = "пучке зелени"
+gender = "male"
+
+["korta nut seed pack"]
+nominative = "семена ореха корта"
+genitive = "семян ореха корта"
+dative = "семенам ореха корта"
+accusative = "семена ореха корта"
+instrumental = "семенами ореха корта"
+prepositional = "семенах ореха корта"
+gender = "plural"
+
+["korta nut"]
+nominative = "орех корта"
+genitive = "ореха корта"
+dative = "ореху корта"
+accusative = "орех корта"
+instrumental = "орехом корта"
+prepositional = "орехе корта"
+gender = "male"
+
+["sweet korta nut seed pack"]
+nominative = "семена сладкого ореха корта"
+genitive = "семян сладкого ореха корта"
+dative = "семенам сладкого ореха корта"
+accusative = "семена сладкого ореха корта"
+instrumental = "семенами сладкого ореха корта"
+prepositional = "семенах сладкого ореха корта"
+gender = "plural"
+
+["sweet korta nut"]
+nominative = "сладкий орех корта"
+genitive = "сладкого ореха корта"
+dative = "сладкому ореху корта"
+accusative = "сладкий орех корта"
+instrumental = "сладким орехом корта"
+prepositional = "сладком орехе корта"
+gender = "male"
+
+["kronkus seed pack"]
+nominative = "семена кронкуса"
+genitive = "семян кронкуса"
+dative = "семенам кронкуса"
+accusative = "семена кронкуса"
+instrumental = "семенами кронкуса"
+prepositional = "семенах кронкуса"
+gender = "plural"
+
+["kronkus vine segment"]
+nominative = "сегмент лозы кронкуса"
+genitive = "сегмента лозы кронкуса"
+dative = "сегменту лозы кронкуса"
+accusative = "сегмент лозы кронкуса"
+instrumental = "сегментом лозы кронкуса"
+prepositional = "сегменте лозы кронкуса"
+gender = "male"
+
+["watermelon seed pack"]
+nominative = "семена арбуза"
+genitive = "семян арбуза"
+dative = "семенам арбуза"
+accusative = "семена арбуза"
+instrumental = "семенами арбуза"
+prepositional = "семенах арбуза"
+gender = "plural"
+
+["watermelon"]
+nominative = "арбуз"
+genitive = "арбуза"
+dative = "арбузу"
+accusative = "арбуз"
+instrumental = "арбузом"
+prepositional = "арбузе"
+gender = "male"
+
+["holymelon seed pack"]
+nominative = "семена святого арбуза"
+genitive = "семян святого арбуза"
+dative = "семенам святого арбуза"
+accusative = "семена святого арбуза"
+instrumental = "семенами святого арбуза"
+prepositional = "семенах святого арбуза"
+gender = "plural"
+
+["holymelon"]
+nominative = "святой арбуз"
+genitive = "святого арбуза"
+dative = "святому арбузу"
+accusative = "святой арбуз"
+instrumental = "святым арбузом"
+prepositional = "святом арбузе"
+gender = "male"
+
+["barrelmelon seed pack"]
+nominative = "семена бочкового арбуза"
+genitive = "семян бочкового арбуза"
+dative = "семенам бочкового арбуза"
+accusative = "семена бочкового арбуза"
+instrumental = "семенами бочкового арбуза"
+prepositional = "семенах бочкового арбуза"
+gender = "plural"
+
+["barrelmelon"]
+nominative = "бочковый арбуз"
+genitive = "бочкового арбуза"
+dative = "бочковому арбузу"
+accusative = "бочковый арбуз"
+instrumental = "бочковым арбузом"
+prepositional = "бочковом арбузе"
+gender = "male"
+
+["reishi mycelium pack"]
+nominative = "грибница трутовика"
+genitive = "грибницы трутовика"
+dative = "грибнице трутовика"
+accusative = "грибницу трутовика"
+instrumental = "грибницей трутовика"
+prepositional = "грибнице трутовика"
+gender = "female"
+
+["reishi"]
+nominative = "трутовик"
+genitive = "трутовика"
+dative = "трутовику"
+accusative = "трутовик"
+instrumental = "трутовиком"
+prepositional = "трутовике"
+gender = "male"
+
+["fly amanita mycelium pack"]
+nominative = "грибница мухомора"
+genitive = "грибницы мухомора"
+dative = "грибнице мухомора"
+accusative = "грибницу мухомора"
+instrumental = "грибницей мухомора"
+prepositional = "грибнице мухомора"
+gender = "female"
+
+["fly amanita"]
+nominative = "мухомор"
+genitive = "мухомора"
+dative = "мухомору"
+accusative = "мухомор"
+instrumental = "мухомором"
+prepositional = "мухоморе"
+gender = "male"
+
+["destroying angel mycelium pack"]
+nominative = "грибница ангела-разрушителя"
+genitive = "грибницы ангела-разрушителя"
+dative = "грибнице ангела-разрушителя"
+accusative = "грибницу ангела-разрушителя"
+instrumental = "грибницей ангела-разрушителя"
+prepositional = "грибнице ангела-разрушителя"
+gender = "female"
+
+["destroying angel"]
+nominative = "ангел-разрушитель"
+genitive = "ангела-разрушителя"
+dative = "ангелу-разрушителю"
+accusative = "ангела-разрушителя"
+instrumental = "ангелом-разрушителем"
+prepositional = "ангеле-разрушителе"
+gender = "male"
+
+["liberty-cap mycelium pack"]
+nominative = "грибница либерти‑кэпа"
+genitive = "грибницы либерти‑кэпа"
+dative = "грибнице либерти‑кэпа"
+accusative = "грибницу либерти‑кэпа"
+instrumental = "грибницей либерти‑кэпа"
+prepositional = "о грибнице либерти‑кэпа"
+gender = "female"
+
+["liberty-cap"]
+nominative = "либерти‑кэп"
+genitive = "либерти‑кэпа"
+dative = "либерти‑кэпу"
+accusative = "либерти‑кэп"
+instrumental = "либерти‑кэпом"
+prepositional = "либерти‑кэпе"
+gender = "male"
+
+["plump-helmet mycelium pack"]
+nominative = "грибница толстошлемника"
+genitive = "грибницы толстошлемника"
+dative = "грибнице толстошлемника"
+accusative = "грибницу толстошлемника"
+instrumental = "грибницей толстошлемника"
+prepositional = "грибнице толстошлемника"
+gender = "female"
+
+["plump-helmet"]
+nominative = "толстошлемник"
+genitive = "толстошлемника"
+dative = "толстошлемнику"
+accusative = "толстошлемника"
+instrumental = "толстошлемником"
+prepositional = "о толстошлемнике"
+gender = "male"
+
+["walking mushroom mycelium pack"]
+nominative = "грибница ходячего гриба"
+genitive = "грибницы ходячего гриба"
+dative = "грибнице ходячего гриба"
+accusative = "грибницу ходячего гриба"
+instrumental = "грибницей ходячего гриба"
+prepositional = "грибнице ходячего гриба"
+gender = "female"
+
+["walking mushroom"]
+nominative = "ходячий гриб"
+genitive = "ходячего гриба"
+dative = "ходячему грибу"
+accusative = "ходячий гриб"
+instrumental = "ходячим грибом"
+prepositional = "о ходячем грибе"
+gender = "male"
+
+["chanterelle mycelium pack"]
+nominative = "грибница лисичек"
+genitive = "грибницы лисичек"
+dative = "грибнице лисичек"
+accusative = "грибницу лисичек"
+instrumental = "грибницей лисичек"
+prepositional = "грибнице лисичек"
+gender = "female"
+
+["chanterelle cluster"]
+nominative = "гроздь лисичек"
+genitive = "грозди лисичек"
+dative = "грозди лисичек"
+accusative = "гроздь лисичек"
+instrumental = "гроздью лисичек"
+prepositional = "грозди лисичек"
+gender = "female"
+
+["jupiter cup mycelium pack"]
+nominative = "грибница кубка Юпитера"
+genitive = "грибницы кубка Юпитера"
+dative = "грибнице кубка Юпитера"
+accusative = "грибницу кубка Юпитера"
+instrumental = "грибницей кубка Юпитера"
+prepositional = "грибнице кубка Юпитера"
+gender = "female"
+
+["jupiter cup"]
+nominative = "кубок Юпитера"
+genitive = "кубка Юпитера"
+dative = "кубку Юпитера"
+accusative = "кубок Юпитера"
+instrumental = "кубком Юпитера"
+prepositional = "кубке Юпитера"
+gender = "male"
+
+["glowshroom mycelium pack"]
+nominative = "грибница светящегося гриба"
+genitive = "грибницы светящегося гриба"
+dative = "грибнице светящегося гриба"
+accusative = "грибницу светящегося гриба"
+instrumental = "грибницей светящегося гриба"
+prepositional = "грибнице светящегося гриба"
+gender = "female"
+
+["glowshroom cluster"]
+nominative = "гроздь светящихся грибов"
+genitive = "грозди светящихся грибов"
+dative = "грозди светящихся грибов"
+accusative = "гроздь светящихся грибов"
+instrumental = "гроздью светящихся грибов"
+prepositional = "грозди светящихся грибов"
+gender = "female"
+
+["glowcap mycelium pack"]
+nominative = "грибница светящегося колпачка"
+genitive = "грибницы светящегося колпачка"
+dative = "грибнице светящегося колпачка"
+accusative = "грибницу светящегося колпачка"
+instrumental = "грибницей светящегося колпачка"
+prepositional = "грибнице светящегося колпачка"
+gender = "female"
+
+["glowcap cluster"]
+nominative = "гроздь светящихся колпачков"
+genitive = "грозди светящихся колпачков"
+dative = "грозди светящихся колпачков"
+accusative = "гроздь светящихся колпачков"
+instrumental = "гроздью светящихся колпачков"
+prepositional = "грозди светящихся колпачков"
+gender = "female"
+
+["shadowshroom mycelium pack"]
+nominative = "грибница теневого гриба"
+genitive = "грибницы теневого гриба"
+dative = "грибнице теневого гриба"
+accusative = "грибницу теневого гриба"
+instrumental = "грибницей теневого гриба"
+prepositional = "грибнице теневого гриба"
+gender = "female"
+
+["shadowshroom cluster"]
+nominative = "гроздь теневых грибов"
+genitive = "грозди теневых грибов"
+dative = "грозди теневых грибов"
+accusative = "гроздь теневых грибов"
+instrumental = "гроздью теневых грибов"
+prepositional = "грозди теневых грибов"
+gender = "female"
+
+["odious pullball spore pack"]
+nominative = "споры мерзкого дождевика"
+genitive = "спор мерзкого дождевика"
+dative = "спорам мерзкого дождевика"
+accusative = "споры мерзкого дождевика"
+instrumental = "спорами мерзкого дождевика"
+prepositional = "спорах мерзкого дождевика"
+gender = "plural"
+
+["odious puffball"]
+nominative = "мерзкий дождевик"
+genitive = "мерзкого дождевика"
+dative = "мерзкому дождевику"
+accusative = "мерзкий дождевик"
+instrumental = "мерзким дождевиком"
+prepositional = "мерзком дождевике"
+gender = "male"
+
+["olive seed pack"]
+nominative = "семена оливок"
+genitive = "семян оливок"
+dative = "семенам оливок"
+accusative = "семена оливок"
+instrumental = "семенами оливок"
+prepositional = "семенах оливок"
+gender = "plural"
+
+["olive"]
+nominative = "оливка"
+genitive = "оливки"
+dative = "оливке"
+accusative = "оливку"
+instrumental = "оливкой"
+prepositional = "оливке"
+gender = "male"
+
+["onion seed pack"]
+nominative = "семена лука"
+genitive = "семян лука"
+dative = "семенам лука"
+accusative = "семена лука"
+instrumental = "семенами лука"
+prepositional = "семенах лука"
+gender = "plural"
+
+["onion"]
+nominative = "лук"
+genitive = "лука"
+dative = "луку"
+accusative = "лук"
+instrumental = "луком"
+prepositional = "луке"
+gender = "male"
+
+["red onion seed pack"]
+nominative = "семена красного лука"
+genitive = "семян красного лука"
+dative = "семенам красного лука"
+accusative = "семена красного лука"
+instrumental = "семенами красного лука"
+prepositional = "семенах красного лука"
+gender = "plural"
+
+["red onion"]
+nominative = "красный лук"
+genitive = "красного лука"
+dative = "красному луку"
+accusative = "красный лук"
+instrumental = "красным луком"
+prepositional = "красном луке"
+gender = "male"
+
+["onion slice"]
+nominative = "ломтик лука"
+genitive = "ломтика лука"
+dative = "ломтику лука"
+accusative = "ломтик лука"
+instrumental = "ломтиком лука"
+prepositional = "ломтике лука"
+gender = "male"
+
+["red onion slice"]
+nominative = "ломтик красного лука"
+genitive = "ломтика красного лука"
+dative = "ломтику красного лука"
+accusative = "ломтик красного лука"
+instrumental = "ломтиком красного лука"
+prepositional = "ломтике красного лука"
+gender = "male"
+
+["peanut seed pack"]
+nominative = "семена арахиса"
+genitive = "семян арахиса"
+dative = "семенам арахиса"
+accusative = "семена арахиса"
+instrumental = "семенами арахиса"
+prepositional = "семенах арахиса"
+gender = "plural"
+
+["peanut"]
+nominative = "арахис"
+genitive = "арахиса"
+dative = "арахису"
+accusative = "арахис"
+instrumental = "арахисом"
+prepositional = "арахисе"
+gender = "male"
+
+["pea pod pack"]
+nominative = "упаковка стручков гороха"
+genitive = "упаковки стручков гороха"
+dative = "упаковке стручков гороха"
+accusative = "упаковку стручков гороха"
+instrumental = "упаковкой стручков гороха"
+prepositional = "упаковке стручков гороха"
+gender = "female"
+
+["peapod"]
+nominative = "стручок гороха"
+genitive = "стручка гороха"
+dative = "стручку гороха"
+accusative = "стручок гороха"
+instrumental = "стручком гороха"
+prepositional = "стручке гороха"
+gender = "male"
+
+["laughin' pea pack"]
+nominative = "упаковка смеющегося гороха"
+genitive = "упаковки смеющегося гороха"
+dative = "упаковке смеющегося гороха"
+accusative = "упаковку смеющегося гороха"
+instrumental = "упаковкой смеющегося гороха"
+prepositional = "упаковке смеющегося гороха"
+gender = "female"
+
+["pod of laughin' peas"]
+nominative = "стручок смеющегося гороха"
+genitive = "стручка смеющегося гороха"
+dative = "стручку смеющегося гороха"
+accusative = "стручок смеющегося гороха"
+instrumental = "стручком смеющегося гороха"
+prepositional = "стручке смеющегося гороха"
+gender = "male"
+
+["world pea pack"]
+nominative = "упаковка мирового гороха"
+genitive = "упаковки мирового гороха"
+dative = "упаковке мирового гороха"
+accusative = "упаковку мирового гороха"
+instrumental = "упаковкой мирового гороха"
+prepositional = "упаковке мирового гороха"
+gender = "female"
+
+["cluster of world peas"]
+nominative = "гроздь мирового гороха"
+genitive = "грозди мирового гороха"
+dative = "грозди мирового гороха"
+accusative = "гроздь мирового гороха"
+instrumental = "гроздью мирового гороха"
+prepositional = "грозди мирового гороха"
+gender = "female"
+
+["pineapple seed pack"]
+nominative = "семена ананасов"
+genitive = "семян ананасов"
+dative = "семенам ананасов"
+accusative = "семена ананасов"
+instrumental = "семенами ананасов"
+prepositional = "семенах ананасов"
+gender = "plural"
+
+["pineapples"]
+nominative = "ананасы"
+genitive = "ананасов"
+dative = "ананасам"
+accusative = "ананасы"
+instrumental = "ананасами"
+prepositional = "ананасах"
+gender = "plural"
+
+["plum seed pack"]
+nominative = "семена сливы"
+genitive = "семян сливы"
+dative = "семенам сливы"
+accusative = "семена сливы"
+instrumental = "семенами сливы"
+prepositional = "семенах сливы"
+gender = "plural"
+
+["plum"]
+nominative = "слива"
+genitive = "сливы"
+dative = "сливе"
+accusative = "сливу"
+instrumental = "сливой"
+prepositional = "сливе"
+gender = "female"
+
+["plumb seed pack"]
+nominative = "семена сливца"
+genitive = "семян сливца"
+dative = "семенам сливца"
+accusative = "семена сливца"
+instrumental = "семенами сливца"
+prepositional = "семенах сливца"
+gender = "plural"
+
+["plumb"]
+nominative = "сливец"
+genitive = "сливца"
+dative = "сливцу"
+accusative = "сливец"
+instrumental = "сливцем"
+prepositional = "сливце"
+gender = "male"
+
+["potato seed pack"]
+nominative = "семена картофеля"
+genitive = "семян картофеля"
+dative = "семенам картофеля"
+accusative = "семена картофеля"
+instrumental = "семенами картофеля"
+prepositional = "семенах картофеля"
+gender = "plural"
+
+["potato"]
+nominative = "картофель"
+genitive = "картофеля"
+dative = "картофелю"
+accusative = "картофель"
+instrumental = "картофелем"
+prepositional = "картофеле"
+gender = "male"
+
+["potato wedges"]
+nominative = "картофельные дольки"
+genitive = "картофельных долек"
+dative = "картофельным долькам"
+accusative = "картофельные дольки"
+instrumental = "картофельными дольками"
+prepositional = "о картофельных дольках"
+gender = "male"
+
+["sweet potato seed pack"]
+nominative = "семена сладкого картофеля"
+genitive = "семян сладкого картофеля"
+dative = "семенам сладкого картофеля"
+accusative = "семена сладкого картофеля"
+instrumental = "семенами сладкого картофеля"
+prepositional = "семенах сладкого картофеля"
+gender = "plural"
+
+["sweet potato"]
+nominative = "сладкий картофель"
+genitive = "сладкого картофеля"
+dative = "сладкому картофелю"
+accusative = "сладкий картофель"
+instrumental = "сладким картофелем"
+prepositional = "сладком картофеле"
+gender = "male"
+
+["pumpkin seed pack"]
+nominative = "семена тыквы"
+genitive = "семян тыквы"
+dative = "семенам тыквы"
+accusative = "семена тыквы"
+instrumental = "семенами тыквы"
+prepositional = "семенах тыквы"
+gender = "plural"
+
+["pumpkin"]
+nominative = "тыква"
+genitive = "тыквы"
+dative = "тыкве"
+accusative = "тыкву"
+instrumental = "тыквой"
+prepositional = "тыкве"
+gender = "female"
+
+["blumpkin seed pack"]
+nominative = "семена синей тыквы"
+genitive = "семян синей тыквы"
+dative = "семенам синей тыквы"
+accusative = "семена синей тыквы"
+instrumental = "семенами синей тыквы"
+prepositional = "семенах синей тыквы"
+gender = "plural"
+
+["blumpkin"]
+nominative = "синяя тыква"
+genitive = "синей тыквы"
+dative = "синей тыкве"
+accusative = "синюю тыкву"
+instrumental = "синей тыквой"
+prepositional = "синей тыкве"
+gender = "female"
+
+["rainbow bunch seed pack"]
+nominative = "семена радужного букета"
+genitive = "семян радужного букета"
+dative = "семенам радужного букета"
+accusative = "семена радужного букета"
+instrumental = "семенами радужного букета"
+prepositional = "семенах радужного букета"
+gender = "plural"
+
+["rainbow flower"]
+nominative = "радужный цветок"
+genitive = "радужного цветка"
+dative = "радужному цветку"
+accusative = "радужный цветок"
+instrumental = "радужным цветком"
+prepositional = "радужном цветке"
+gender = "male"
+
+["rainbow bunch seed pack"]
+nominative = "семена радужного букета"
+genitive = "семян радужного букета"
+dative = "семенам радужного букета"
+accusative = "семена радужного букета"
+instrumental = "семенами радужного букета"
+prepositional = "семенах радужного букета"
+gender = "plural"
+
+["rainbow flower"]
+nominative = "радужный цветок"
+genitive = "радужного цветка"
+dative = "радужному цветку"
+accusative = "радужный цветок"
+instrumental = "радужным цветком"
+prepositional = "радужном цветке"
+gender = "male"
+
+["cabbage seed pack"]
+nominative = "семена капусты"
+genitive = "семян капусты"
+dative = "семенам капусты"
+accusative = "семена капусты"
+instrumental = "семенами капусты"
+prepositional = "семенах капусты"
+gender = "plural"
+
+["cabbage"]
+nominative = "капуста"
+genitive = "капусты"
+dative = "капусте"
+accusative = "капусту"
+instrumental = "капустой"
+prepositional = "капусте"
+gender = "female"
+
+["replica pod seed pack"]
+nominative = "семена копии пода"
+genitive = "семян копии пода"
+dative = "семенам копии пода"
+accusative = "семена копии пода"
+instrumental = "семенами копии пода"
+prepositional = "семенах копии пода"
+gender = "plural"
+
+["Replica Pod"]
+nominative = "копия пода"
+genitive = "копии пода"
+dative = "копии пода"
+accusative = "копию пода"
+instrumental = "копией пода"
+prepositional = "копии пода"
+gender = "female"
+
+["carrot seed pack"]
+nominative = "семена моркови"
+genitive = "семян моркови"
+dative = "семенам моркови"
+accusative = "семена моркови"
+instrumental = "семенами моркови"
+prepositional = "семенах моркови"
+gender = "plural"
+
+["carrot"]
+nominative = "морковь"
+genitive = "моркови"
+dative = "моркови"
+accusative = "морковь"
+instrumental = "морковью"
+prepositional = "моркови"
+gender = "female"
+
+["parsnip seed pack"]
+nominative = "семена пастернака"
+genitive = "семян пастернака"
+dative = "семенам пастернака"
+accusative = "семена пастернака"
+instrumental = "семенами пастернака"
+prepositional = "семенах пастернака"
+gender = "plural"
+
+["parsnip"]
+nominative = "пастернак"
+genitive = "пастернака"
+dative = "пастернаку"
+accusative = "пастернак"
+instrumental = "пастернаком"
+prepositional = "пастернаке"
+gender = "male"
+
+["cahn'root seed pack"]
+nominative = "семена мор'кови"
+genitive = "семян мор'кови"
+dative = "семенам мор'кови"
+accusative = "семена мор'кови"
+instrumental = "семенами мор'кови"
+prepositional = "семенах мор'кови"
+gender = "plural"
+
+["cahn'root"]
+nominative = "мор'ковь"
+genitive = "мор'кови"
+dative = "мор'кови"
+accusative = "мор'ковь"
+instrumental = "мор'ковью"
+prepositional = "мор'кови"
+gender = "male"
+
+["white-beet seed pack"]
+nominative = "семена белой свеклы"
+genitive = "семян белой свеклы"
+dative = "семенам белой свеклы"
+accusative = "семена белой свеклы"
+instrumental = "семенами белой свеклы"
+prepositional = "семенах белой свеклы"
+gender = "plural"
+
+["white-beet"]
+nominative = "белая свекла"
+genitive = "белой свеклы"
+dative = "белой свекле"
+accusative = "белую свеклу"
+instrumental = "белой свеклой"
+prepositional = "белой свекле"
+gender = "female"
+
+["redbeet seed pack"]
+nominative = "семена красной свеклы"
+genitive = "семян красной свеклы"
+dative = "семенам красной свеклы"
+accusative = "семена красной свеклы"
+instrumental = "семенами красной свеклы"
+prepositional = "семенах красной свеклы"
+gender = "plural"
+
+["red beet"]
+nominative = "красная свекла"
+genitive = "красной свеклы"
+dative = "красной свекле"
+accusative = "красную свеклу"
+instrumental = "красной свеклой"
+prepositional = "красной свекле"
+gender = "female"
+
+["seedling seed pack"]
+nominative = "семена саженца"
+genitive = "семян саженца"
+dative = "семенам саженца"
+accusative = "семена саженца"
+instrumental = "семенами саженца"
+prepositional = "семенах саженца"
+gender = "plural"
+
+["Seedling Plant"]
+nominative = "саженец"
+genitive = "саженца"
+dative = "саженцу"
+accusative = "саженец"
+instrumental = "саженцем"
+prepositional = "саженце"
+gender = "male"
+
+["sugarcane seed pack"]
+nominative = "семена сахарного тростника"
+genitive = "семян сахарного тростника"
+dative = "семенам сахарного тростника"
+accusative = "семена сахарного тростника"
+instrumental = "семенами сахарного тростника"
+prepositional = "семенах сахарного тростника"
+gender = "plural"
+
+["sugarcane"]
+nominative = "сахарный тростник"
+genitive = "сахарного тростника"
+dative = "сахарному тростнику"
+accusative = "сахарный тростник"
+instrumental = "сахарным тростником"
+prepositional = "сахарном тростнике"
+gender = "male"
+
+["bamboo seed pack"]
+nominative = "семена бамбука"
+genitive = "семян бамбука"
+dative = "семенам бамбука"
+accusative = "семена бамбука"
+instrumental = "семенами бамбука"
+prepositional = "семенах бамбука"
+gender = "plural"
+
+["bamboo log"]
+nominative = "бамбуковое бревно"
+genitive = "бамбукового бревна"
+dative = "бамбуковому бревну"
+accusative = "бамбуковое бревно"
+instrumental = "бамбуковым бревном"
+prepositional = "бамбуковом бревне"
+gender = "neuter"
+
+["saltcane seed pack"]
+nominative = "семена солёного тростника"
+genitive = "семян солёного тростника"
+dative = "семенам солёного тростника"
+accusative = "семена солёного тростника"
+instrumental = "семенами солёного тростника"
+prepositional = "семенах солёного тростника"
+gender = "plural"
+
+["saltcane"]
+nominative = "солёный тростник"
+genitive = "солёного тростника"
+dative = "солёному тростнику"
+accusative = "солёный тростник"
+instrumental = "солёным тростником"
+prepositional = "солёном тростнике"
+gender = "male"
+
+["tea aspera seed pack"]
+nominative = "семена чая аспера"
+genitive = "семян чая аспера"
+dative = "семенам чая аспера"
+accusative = "семена чая аспера"
+instrumental = "семенами чая аспера"
+prepositional = "семенах чая аспера"
+gender = "plural"
+
+["Tea Aspera tips"]
+nominative = "типсы чая аспера"
+genitive = "типсов чая аспера"
+dative = "типсам чая аспера"
+accusative = "типсы чая аспера"
+instrumental = "типсами чая аспера"
+prepositional = "типсах чая аспера"
+gender = "plural"
+
+["tea astra seed pack"]
+nominative = "семена чая астра"
+genitive = "семян чая астра"
+dative = "семенам чая астра"
+accusative = "семена чая астра"
+instrumental = "семенами чая астра"
+prepositional = "семенах чая астра"
+gender = "plural"
+
+["Tea Astra tips"]
+nominative = "типсы чая астра"
+genitive = "типсов чая астра"
+dative = "типсам чая астра"
+accusative = "типсы чая астра"
+instrumental = "типсами чая астра"
+prepositional = "типсах чая астра"
+gender = "plural"
+
+["coffee arabica seed pack"]
+nominative = "семена кофе арабики"
+genitive = "семян кофе арабики"
+dative = "семенам кофе арабики"
+accusative = "семена кофе арабики"
+instrumental = "семенами кофе арабики"
+prepositional = "семенах кофе арабики"
+gender = "plural"
+
+["coffee arabica beans"]
+nominative = "зёрна кофе арабики"
+genitive = "зёрен кофе арабики"
+dative = "зёрнам кофе арабики"
+accusative = "зёрна кофе арабики"
+instrumental = "зёрнами кофе арабики"
+prepositional = "зёрнах кофе арабики"
+gender = "plural"
+
+["coffee robusta seed pack"]
+nominative = "семена кофе робуста"
+genitive = "семян кофе робуста"
+dative = "семенам кофе робуста"
+accusative = "семена кофе робуста"
+instrumental = "семенами кофе робуста"
+prepositional = "семенах кофе робуста"
+gender = "plural"
+
+["coffee robusta beans"]
+nominative = "зёрна кофе робуста"
+genitive = "зёрен кофе робуста"
+dative = "зёрнам кофе робуста"
+accusative = "зёрна кофе робуста"
+instrumental = "зёрнами кофе робуста"
+prepositional = "зёрнах кофе робуста"
+gender = "plural"
+
+["tobacco seed pack"]
+nominative = "семена табака"
+genitive = "семян табака"
+dative = "семенам табака"
+accusative = "семена табака"
+instrumental = "семенами табака"
+prepositional = "семенах табака"
+gender = "plural"
+
+["tobacco leaves"]
+nominative = "табачные листья"
+genitive = "табачных листьев"
+dative = "табачным листьям"
+accusative = "табачные листья"
+instrumental = "табачными листьями"
+prepositional = "табачных листьях"
+gender = "plural"
+
+["space tobacco seed pack"]
+nominative = "семена космического табака"
+genitive = "семян космического табака"
+dative = "семенам космического табака"
+accusative = "семена космического табака"
+instrumental = "семенами космического табака"
+prepositional = "семенах космического табака"
+gender = "plural"
+
+["space tobacco leaves"]
+nominative = "космические табачные листья"
+genitive = "космических табачных листьев"
+dative = "космическим табачным листьям"
+accusative = "космические табачные листья"
+instrumental = "космическими табачными листьями"
+prepositional = "космических табачных листьях"
+gender = "plural"
+
+["tomato seed pack"]
+nominative = "семена томатов"
+genitive = "семян томатов"
+dative = "семенам томатов"
+accusative = "семена томатов"
+instrumental = "семенами томатов"
+prepositional = "семенах томатов"
+gender = "plural"
+
+["tomato"]
+nominative = "томат"
+genitive = "томата"
+dative = "томату"
+accusative = "томат"
+instrumental = "томатом"
+prepositional = "томате"
+gender = "male"
+
+["blood-tomato seed pack"]
+nominative = "семена кровяных томатов"
+genitive = "семян кровяных томатов"
+dative = "семенам кровяных томатов"
+accusative = "семена кровяных томатов"
+instrumental = "семенами кровяных томатов"
+prepositional = "семенах кровяных томатов"
+gender = "plural"
+
+["blood-tomato"]
+nominative = "кровяной томат"
+genitive = "кровяного томата"
+dative = "кровяному томату"
+accusative = "кровяной томат"
+instrumental = "кровяным томатом"
+prepositional = "кровяном томате"
+gender = "male"
+
+["blue-tomato seed pack"]
+nominative = "семена синих томатов"
+genitive = "семян синих томатов"
+dative = "семенам синих томатов"
+accusative = "семена синих томатов"
+instrumental = "семенами синих томатов"
+prepositional = "семенах синих томатов"
+gender = "plural"
+
+["blue-tomato"]
+nominative = "синий томат"
+genitive = "синего томата"
+dative = "синему томату"
+accusative = "синий томат"
+instrumental = "синим томатом"
+prepositional = "синем томате"
+gender = "male"
+
+["bluespace tomato seed pack"]
+nominative = "семена блюспейс томатов"
+genitive = "семян блюспейс томатов"
+dative = "семенам блюспейс томатов"
+accusative = "семена блюспейс томатов"
+instrumental = "семенами блюспейс томатов"
+prepositional = "семенах блюспейс томатов"
+gender = "plural"
+
+["bluespace tomato"]
+nominative = "блюспейс томат"
+genitive = "блюспейс томата"
+dative = "блюспейс томату"
+accusative = "блюспейс томат"
+instrumental = "блюспейс томатом"
+prepositional = "блюспейс томате"
+gender = "male"
+
+["killer-tomato seed pack"]
+nominative = "семена томатов‑убийц"
+genitive = "семян томатов‑убийц"
+dative = "семенам томатов‑убийц"
+accusative = "семена томатов‑убийц"
+instrumental = "семенами томатов‑убийц"
+prepositional = "семенах томатов‑убийц"
+gender = "plural"
+
+["killer-tomato"]
+nominative = "томат‑убийца"
+genitive = "томата‑убийцы"
+dative = "томату‑убийце"
+accusative = "томат‑убийцу"
+instrumental = "томатом‑убийцей"
+prepositional = "томате‑убийце"
+gender = "male"
+
+["tower-cap mycelium pack"]
+nominative = "грибница башенного колпачка"
+genitive = "грибницы башенного колпачка"
+dative = "грибнице башенного колпачка"
+accusative = "грибницу башенного колпачка"
+instrumental = "грибницей башенного колпачка"
+prepositional = "грибнице башенного колпачка"
+gender = "female"
+
+["steel-cap mycelium pack"]
+nominative = "грибница стального колпачка"
+genitive = "грибницы стального колпачка"
+dative = "грибнице стального колпачка"
+accusative = "грибницу стального колпачка"
+instrumental = "грибницей стального колпачка"
+prepositional = "грибнице стального колпачка"
+gender = "female"
+
+["tower-cap log"]
+nominative = "бревно башенного колпачка"
+genitive = "бревна башенного колпачка"
+dative = "бревну башенного колпачка"
+accusative = "бревно башенного колпачка"
+instrumental = "бревном башенного колпачка"
+prepositional = "бревне башенного колпачка"
+gender = "neuter"
+
+["steel-cap log"]
+nominative = "бревно стального колпачка"
+genitive = "бревна стального колпачка"
+dative = "бревну стального колпачка"
+accusative = "бревно стального колпачка"
+instrumental = "бревном стального колпачка"
+prepositional = "бревне стального колпачка"
+gender = "neuter"
+
+["wood log"]
+nominative = "деревянное бревно"
+genitive = "деревянного бревна"
+dative = "деревянному бревну"
+accusative = "деревянное бревно"
+instrumental = "деревянным бревном"
+prepositional = "деревянном бревне"
+gender = "neuter"
+
+["punji sticks"]
+nominative = "палки пунджи"
+genitive = "палок пунджи"
+dative = "палкам пунджи"
+accusative = "палки пунджи"
+instrumental = "палками пунджи"
+prepositional = "палках пунджи"
+gender = "plural"
+
+["wooden spikes"]
+nominative = "деревянные шипы"
+genitive = "деревянных шипов"
+dative = "деревянным шипам"
+accusative = "деревянные шипы"
+instrumental = "деревянными шипами"
+prepositional = "деревянных шипах"
 gender = "plural"
 
 # MARK: Vendor
