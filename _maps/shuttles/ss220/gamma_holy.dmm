@@ -85,7 +85,8 @@
 	pixel_x = 4
 	},
 /obj/item/storage/medkit/surgery_syndie{
-	pixel_x = -4
+	pixel_x = -4;
+	name = "advanced surgical medkit"
 	},
 /obj/item/storage/medkit/advanced{
 	pixel_x = 4
