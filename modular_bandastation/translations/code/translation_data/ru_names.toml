@@ -10601,21 +10601,21 @@ prepositional = "баклажане"
 gender = "male"
 
 ["egg-plant seed pack"]
-nominative = "семена яйцлажана"
-genitive = "семян яйцлажана"
-dative = "семенам яйцлажана"
-accusative = "семена яйцлажана"
-instrumental = "семенами яйцлажана"
-prepositional = "семенах яйцлажана"
+nominative = "семена яйцежана"
+genitive = "семян яйцежана"
+dative = "семенам яйцежана"
+accusative = "семена яйцежана"
+instrumental = "семенами яйцежана"
+prepositional = "семенах яйцежана"
 gender = "plural"
 
 ["egg-plant"]
-nominative = "яйцлажан"
-genitive = "яйцлажана"
-dative = "яйцлажану"
-accusative = "яйцлажан"
-instrumental = "яйцлажаном"
-prepositional = "яйцлажане"
+nominative = "яйцежан"
+genitive = "яйцежана"
+dative = "яйцежану"
+accusative = "яйцежана"
+instrumental = "яйцежаном"
+prepositional = "яйцежане"
 gender = "male"
 
 ["poppy seed pack"]
