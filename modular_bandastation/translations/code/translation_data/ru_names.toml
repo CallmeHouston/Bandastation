@@ -12212,16 +12212,6 @@ instrumental = "бутылкой селитры"
 prepositional = "бутылке селитры"
 gender = "female"
 
-# MARK: Plants
-["banana"]
-nominative = "банан"
-genitive = "банана"
-dative = "банану"
-accusative = "банан"
-instrumental = "бананом"
-prepositional = "банане"
-gender = "male"
-
 # MARK: Curator
 ["four-color pen"]
 nominative = "четырёхцветная ручка"
