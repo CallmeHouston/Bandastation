@@ -12067,24 +12067,6 @@ instrumental = "стручком кудзу"
 prepositional = "стручке кудзу"
 gender = "male"
 
-["kudzu seed pack"]
-nominative = "семена кудзу"
-genitive = "семян кудзу"
-dative = "семенам кудзу"
-accusative = "семена кудзу"
-instrumental = "семенами кудзу"
-prepositional = "семенах кудзу"
-gender = "plural"
-
-["kudzu pod"]
-nominative = "стручок кудзу"
-genitive = "стручка кудзу"
-dative = "стручку кудзу"
-accusative = "стручок кудзу"
-instrumental = "стручком кудзу"
-prepositional = "стручке кудзу"
-gender = "male"
-
 ["nettle seed pack"]
 nominative = "семена крапивы"
 genitive = "семян крапивы"
