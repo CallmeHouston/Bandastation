@@ -11590,24 +11590,6 @@ instrumental = "радужным цветком"
 prepositional = "радужном цветке"
 gender = "male"
 
-["rainbow bunch seed pack"]
-nominative = "семена радужного букета"
-genitive = "семян радужного букета"
-dative = "семенам радужного букета"
-accusative = "семена радужного букета"
-instrumental = "семенами радужного букета"
-prepositional = "семенах радужного букета"
-gender = "plural"
-
-["rainbow flower"]
-nominative = "радужный цветок"
-genitive = "радужного цветка"
-dative = "радужному цветку"
-accusative = "радужный цветок"
-instrumental = "радужным цветком"
-prepositional = "радужном цветке"
-gender = "male"
-
 ["cabbage seed pack"]
 nominative = "семена капусты"
 genitive = "семян капусты"
