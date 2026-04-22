@@ -12049,6 +12049,150 @@ instrumental = "деревянными шипами"
 prepositional = "деревянных шипах"
 gender = "plural"
 
+["kudzu seed pack"]
+nominative = "семена кудзу"
+genitive = "семян кудзу"
+dative = "семенам кудзу"
+accusative = "семена кудзу"
+instrumental = "семенами кудзу"
+prepositional = "семенах кудзу"
+gender = "plural"
+
+["kudzu pod"]
+nominative = "стручок кудзу"
+genitive = "стручка кудзу"
+dative = "стручку кудзу"
+accusative = "стручок кудзу"
+instrumental = "стручком кудзу"
+prepositional = "стручке кудзу"
+gender = "male"
+
+["kudzu seed pack"]
+nominative = "семена кудзу"
+genitive = "семян кудзу"
+dative = "семенам кудзу"
+accusative = "семена кудзу"
+instrumental = "семенами кудзу"
+prepositional = "семенах кудзу"
+gender = "plural"
+
+["kudzu pod"]
+nominative = "стручок кудзу"
+genitive = "стручка кудзу"
+dative = "стручку кудзу"
+accusative = "стручок кудзу"
+instrumental = "стручком кудзу"
+prepositional = "стручке кудзу"
+gender = "male"
+
+["nettle seed pack"]
+nominative = "семена крапивы"
+genitive = "семян крапивы"
+dative = "семенам крапивы"
+accusative = "семена крапивы"
+instrumental = "семенами крапивы"
+prepositional = "семенах крапивы"
+gender = "plural"
+
+["nettle"]
+nominative = "крапива"
+genitive = "крапивы"
+dative = "крапиве"
+accusative = "крапиву"
+instrumental = "крапивой"
+prepositional = "крапиве"
+gender = "female"
+
+["death-nettle seed pack"]
+nominative = "семена смертокрапивы"
+genitive = "семян смертокрапивы"
+dative = "семенам смертокрапивы"
+accusative = "семена смертокрапивы"
+instrumental = "семенами смертокрапивы"
+prepositional = "семенах смертокрапивы"
+gender = "plural"
+
+["deathnettle"]
+nominative = "смертокрапива"
+genitive = "смертокрапивы"
+dative = "смертокрапиве"
+accusative = "смертокрапиву"
+instrumental = "смертокрапивой"
+prepositional = "смертокрапиве"
+gender = "female"
+
+["starthistle seed pack"]
+nominative = "семена васильков"
+genitive = "семян васильков"
+dative = "семенам васильков"
+accusative = "семена васильков"
+instrumental = "семенами васильков"
+prepositional = "семенах васильков"
+gender = "plural"
+
+["Starthistle"]
+nominative = "василёк"
+genitive = "василька"
+dative = "васильку"
+accusative = "василёк"
+instrumental = "васильком"
+prepositional = "васильке"
+gender = "male"
+
+["corpse flower seed pack"]
+nominative = "семена трупного цветка"
+genitive = "семян трупного цветка"
+dative = "семенам трупного цветка"
+accusative = "семена трупного цветка"
+instrumental = "семенами трупного цветка"
+prepositional = "семенах трупного цветка"
+gender = "plural"
+
+["Corpse flower"]
+nominative = "трупный цветок"
+genitive = "трупного цветка"
+dative = "трупному цветку"
+accusative = "трупный цветок"
+instrumental = "трупным цветком"
+prepositional = "трупном цветке"
+gender = "male"
+
+["galaxythistle seed pack"]
+nominative = "семена галактического чертополоха"
+genitive = "семян галактического чертополоха"
+dative = "семенам галактического чертополоха"
+accusative = "семена галактического чертополоха"
+instrumental = "семенами галактического чертополоха"
+prepositional = "семенах галактического чертополоха"
+gender = "plural"
+
+["galaxythistle flower head"]
+nominative = "соцветие галактического чертополоха"
+genitive = "соцветия галактического чертополоха"
+dative = "соцветию галактического чертополоха"
+accusative = "соцветие галактического чертополоха"
+instrumental = "соцветием галактического чертополоха"
+prepositional = "соцветии галактического чертополоха"
+gender = "male"
+
+["pack of coca leaf seeds"]
+nominative = "семена листьев коки"
+genitive = "семян листьев коки"
+dative = "семенам листьев коки"
+accusative = "семена листьев коки"
+instrumental = "семенами листьев коки"
+prepositional = "семенах листьев коки"
+gender = "plural"
+
+["coca leaf"]
+nominative = "лист коки"
+genitive = "листа коки"
+dative = "листу коки"
+accusative = "лист коки"
+instrumental = "листом коки"
+prepositional = "листе коки"
+gender = "male"
+
 # MARK: Vendor
 ["hydroponics guard armband"]
 nominative = "нарукавная повязка гидропоники"
