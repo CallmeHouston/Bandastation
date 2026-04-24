@@ -48,7 +48,7 @@
 "u" = (
 /obj/structure/marker_beacon/violet,
 /turf/template_noop,
-/area/template_noop)
+/area/space/nearstation)
 "w" = (
 /obj/structure/reagent_dispensers/fueltank,
 /turf/open/floor/plating,
@@ -65,7 +65,7 @@
 "z" = (
 /obj/structure/lattice,
 /turf/template_noop,
-/area/template_noop)
+/area/space/nearstation)
 "A" = (
 /obj/structure/closet/crate,
 /obj/item/aicard,

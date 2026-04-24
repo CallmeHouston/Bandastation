@@ -151,13 +151,10 @@
 /turf/open/misc/ashplanet/wateryrock/rainworld,
 /area/rainworld/surface/outdoors)
 "S" = (
+/obj/vehicle/ridden/lavaboat,
 /obj/item/oar,
 /turf/open/misc/ashplanet/wateryrock/rainworld,
 /area/rainworld/surface/outdoors)
-"Y" = (
-/obj/vehicle/ridden/lavaboat,
-/turf/template_noop,
-/area/template_noop)
 
 (1,1,1) = {"
 a
@@ -187,7 +184,7 @@ a
 "}
 (3,1,1) = {"
 a
-Y
+a
 b
 d
 d

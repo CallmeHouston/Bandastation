@@ -90,7 +90,7 @@
 "v" = (
 /obj/effect/spawner/random/structure/shipping_container/blank,
 /turf/template_noop,
-/area/template_noop)
+/area/space/nearstation)
 "G" = (
 /obj/structure/closet,
 /obj/item/borg/upgrade/modkit/lifesteal,

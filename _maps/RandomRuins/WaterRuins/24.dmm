@@ -235,7 +235,7 @@
 /turf/open/floor/wood,
 /area/ruin/space/has_grav/powered/hilbertresearchfacility)
 "eX" = (
-/turf/open/water/no_planet_atmos/deep/rainworld,
+/turf/template_noop,
 /area/template_noop)
 "fb" = (
 /obj/effect/decal/cleanable/dirt,
@@ -245,7 +245,6 @@
 /obj/machinery/door/airlock/cult/unruned/friendly{
 	name = "Processing"
 	},
-/obj/structure/barricade/wooden,
 /obj/structure/barricade/wooden/crude,
 /turf/open/floor/mineral/titanium/tiled/yellow,
 /area/ruin/space/has_grav/powered/hilbertresearchfacility)
@@ -1093,7 +1092,6 @@
 /obj/machinery/door/airlock/science{
 	name = "Xenobiology"
 	},
-/obj/structure/barricade/wooden,
 /obj/structure/barricade/wooden/crude,
 /turf/open/floor/mineral/titanium/tiled/purple,
 /area/ruin/space/has_grav/powered/hilbertresearchfacility)

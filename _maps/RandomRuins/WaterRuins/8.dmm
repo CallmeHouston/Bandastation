@@ -49,7 +49,7 @@
 "bx" = (
 /obj/item/cigbutt,
 /turf/template_noop,
-/area/template_noop)
+/area/space/nearstation)
 "bC" = (
 /obj/machinery/navbeacon{
 	location = "syndielab_beacon1";
@@ -675,10 +675,6 @@
 /area/ruin/syndielab)
 "QO" = (
 /obj/structure/table/reinforced/plastitaniumglass,
-/obj/item/computer_disk/syndicate/camera_app{
-	pixel_y = 4;
-	pixel_x = -5
-	},
 /obj/effect/decal/cleanable/cobweb/cobweb2,
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/item/crowbar/hammer{
