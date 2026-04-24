@@ -9,7 +9,6 @@
 // inv_box.icon_full = "template"
 	inv_box.screen_loc = ui_drone_storage
 	inv_box.slot_id = ITEM_SLOT_DEX_STORAGE
-	static_inventory += inv_box
 
 /datum/hud/dextrous/slugcat/persistent_inventory_update()
 	if(!mymob)
