@@ -330,13 +330,6 @@
 	},
 /turf/open/floor/iron/dark/small,
 /area/station/medical/morgue)
-"ahn" = (
-/obj/structure/disposalpipe/trunk{
-	dir = 1
-	},
-/obj/structure/disposaloutlet,
-/turf/open/floor/plating/airless,
-/area/rainworld/surface/outdoors)
 "ahK" = (
 /obj/structure/table/wood/fancy/black,
 /obj/machinery/light/small/directional/north,
@@ -1503,13 +1496,6 @@
 	},
 /turf/open/floor/iron/dark,
 /area/station/security/warden)
-"aJi" = (
-/obj/structure/lattice/water,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/water/no_planet_atmos/deep/rainworld,
-/area/rainworld/surface/outdoors)
 "aJj" = (
 /obj/structure/sign/poster/random/directional/south,
 /obj/structure/cable,
@@ -3349,13 +3335,6 @@
 /obj/effect/spawner/random/trash/box,
 /turf/open/floor/plating,
 /area/station/maintenance/port/fore)
-"bvu" = (
-/obj/structure/lattice/water,
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/turf/open/water/no_planet_atmos/deep/rainworld,
-/area/rainworld/surface/outdoors)
 "bvN" = (
 /obj/effect/turf_decal/tile/yellow{
 	dir = 8
@@ -4703,7 +4682,6 @@
 /turf/open/floor/iron/smooth,
 /area/station/commons/vacant_room/commissary)
 "bYs" = (
-/obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/station/engineering/atmos)
 "bYv" = (
@@ -8696,14 +8674,6 @@
 	},
 /turf/open/floor/plating,
 /area/station/security/execution/transfer)
-"dCn" = (
-/obj/structure/lattice/water,
-/obj/machinery/atmospherics/pipe/smart/manifold4w/orange/visible,
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/water/no_planet_atmos/deep/rainworld,
-/area/rainworld/surface/outdoors)
 "dCt" = (
 /obj/effect/turf_decal/loading_area,
 /obj/effect/turf_decal/stripes/line{
@@ -10525,7 +10495,6 @@
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
 /obj/effect/mapping_helpers/airlock/access/all/engineering/external,
 /obj/effect/mapping_helpers/airlock/access/all/engineering/atmos,
-/obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/station/engineering/atmos)
 "enR" = (
@@ -28315,16 +28284,6 @@
 	},
 /turf/open/floor/wood,
 /area/station/command/heads_quarters/hop)
-"loc" = (
-/obj/structure/lattice/water,
-/obj/machinery/atmospherics/pipe/smart/simple/yellow/visible{
-	dir = 10
-	},
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
-/turf/open/water/no_planet_atmos/deep/rainworld,
-/area/rainworld/surface/outdoors)
 "lox" = (
 /obj/effect/spawner/random/trash/graffiti,
 /turf/open/floor/iron/smooth,
@@ -33775,16 +33734,6 @@
 /obj/item/food/monkeycube,
 /turf/open/floor/plating,
 /area/station/maintenance/port/aft)
-"nvs" = (
-/obj/structure/lattice/water,
-/obj/machinery/atmospherics/pipe/smart/simple/yellow/visible{
-	dir = 4
-	},
-/obj/structure/disposalpipe/segment{
-	dir = 4
-	},
-/turf/open/water/no_planet_atmos/deep/rainworld,
-/area/rainworld/surface/outdoors)
 "nvC" = (
 /obj/structure/chair/office,
 /obj/effect/turf_decal/siding/wood,
@@ -35100,7 +35049,6 @@
 "nUD" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/atmospherics/pipe/smart/simple/yellow/visible,
-/obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/station/engineering/atmos)
 "nUH" = (
@@ -35689,11 +35637,6 @@
 /obj/structure/cable,
 /turf/open/floor/engine,
 /area/station/engineering/supermatter/room)
-"ogC" = (
-/obj/structure/lattice/water,
-/obj/structure/disposalpipe/segment,
-/turf/open/water/no_planet_atmos/deep/rainworld,
-/area/rainworld/surface/outdoors)
 "ogP" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
@@ -37678,12 +37621,6 @@
 	},
 /turf/open/floor/iron/smooth,
 /area/station/commons/storage/tools)
-"oWU" = (
-/obj/structure/lattice/water,
-/obj/machinery/atmospherics/pipe/smart/simple/yellow/visible,
-/obj/structure/disposalpipe/segment,
-/turf/open/water/no_planet_atmos/deep/rainworld,
-/area/rainworld/surface/outdoors)
 "oXb" = (
 /obj/effect/decal/cleanable/dirt/dust,
 /obj/effect/mapping_helpers/broken_floor,
@@ -42870,9 +42807,6 @@
 /obj/machinery/atmospherics/pipe/smart/simple/yellow/visible{
 	dir = 6
 	},
-/obj/structure/disposalpipe/segment{
-	dir = 6
-	},
 /turf/open/water/no_planet_atmos/deep/rainworld,
 /area/rainworld/surface/outdoors)
 "qZj" = (
@@ -43956,13 +43890,6 @@
 	},
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/aft)
-"rvT" = (
-/obj/structure/lattice/water,
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
-/turf/open/water/no_planet_atmos/deep/rainworld,
-/area/rainworld/surface/outdoors)
 "rvU" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -52330,16 +52257,6 @@
 	},
 /turf/open/floor/wood/large,
 /area/station/service/theater)
-"uHO" = (
-/obj/structure/lattice/water,
-/obj/machinery/atmospherics/pipe/smart/simple/yellow/visible{
-	dir = 9
-	},
-/obj/structure/disposalpipe/segment{
-	dir = 9
-	},
-/turf/open/water/no_planet_atmos/deep/rainworld,
-/area/rainworld/surface/outdoors)
 "uHQ" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
@@ -56187,7 +56104,6 @@
 	},
 /obj/effect/mapping_helpers/airlock/access/all/engineering/external,
 /obj/effect/mapping_helpers/airlock/access/all/engineering/atmos,
-/obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/station/engineering/atmos)
 "wgi" = (
@@ -59582,7 +59498,6 @@
 /obj/machinery/atmospherics/pipe/smart/simple/yellow/visible{
 	dir = 5
 	},
-/obj/structure/disposalpipe/segment,
 /turf/open/floor/plating,
 /area/station/engineering/atmos)
 "xuA" = (
@@ -97119,9 +97034,9 @@ gga
 flL
 wIo
 wIo
-bvu
-ogC
-ahn
+flL
+flL
+wIo
 wIo
 wIo
 wIo
@@ -97376,7 +97291,7 @@ gga
 wIo
 wIo
 wIo
-aJi
+flL
 flL
 wIo
 wIo
@@ -97633,7 +97548,7 @@ vFs
 vFs
 vFs
 xWl
-dCn
+xWl
 xWl
 xWl
 xWl
@@ -97889,8 +97804,8 @@ xuv
 enM
 bYs
 wfY
-ogC
-rvT
+flL
+flL
 wIo
 wIo
 wIo
@@ -98140,7 +98055,7 @@ njX
 yjx
 njX
 vnM
-nvs
+fkg
 hEP
 snY
 gga
@@ -98397,7 +98312,7 @@ vnM
 vnM
 vnM
 vnM
-nvs
+fkg
 gga
 wgv
 mSD
@@ -98636,25 +98551,25 @@ dOd
 oPo
 vpt
 uLW
-loc
-oWU
-oWU
-oWU
-oWU
-oWU
-oWU
-oWU
-oWU
-oWU
-oWU
-oWU
-oWU
-oWU
-oWU
-oWU
-oWU
-oWU
-uHO
+itt
+rxk
+rxk
+rxk
+rxk
+rxk
+rxk
+rxk
+rxk
+rxk
+rxk
+rxk
+rxk
+rxk
+rxk
+rxk
+rxk
+rxk
+soG
 bRy
 sWP
 bRy
