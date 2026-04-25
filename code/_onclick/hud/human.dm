@@ -178,7 +178,7 @@
 			screenmob.client.screen -= I
 
 /mob/living/carbon/human/verb/toggle_hotkey_verbs()
-	set category = "OOC"
+	set category = null // BANDASTATION REPLACEMENT: Original: "OOC"
 	set name = "Toggle hotkey buttons"
 	set desc = "This disables or enables the user interface buttons which can be used with hotkeys."
 
