@@ -17,7 +17,7 @@
 /obj/item/rcd_ammo/large{
 	pixel_x = -8
 	},
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "mE" = (
 /obj/machinery/door/airlock/titanium{
@@ -31,7 +31,7 @@
 "qF" = (
 /obj/effect/turf_decal/stripes/red/end,
 /obj/structure/closet/secure_closet/gamma_weapon,
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "sm" = (
 /obj/structure/tank_dispenser/oxygen,
@@ -39,32 +39,32 @@
 	dir = 1
 	},
 /obj/effect/turf_decal/stripes/line,
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "vM" = (
-/turf/closed/wall/mineral/titanium,
+/turf/closed/wall/mineral/plastitanium,
 /area/shuttle/gamma)
 "wK" = (
 /obj/machinery/wall_healer/directional/west,
-/turf/open/floor/catwalk_floor/titanium,
+/turf/open/floor/catwalk_floor/iron_white,
 /area/shuttle/gamma)
 "xL" = (
 /obj/machinery/power/shuttle_engine/propulsion,
 /turf/open/floor/plating/airless,
 /area/shuttle/gamma)
 "AK" = (
-/turf/open/floor/catwalk_floor/titanium,
+/turf/open/floor/catwalk_floor/iron_white,
 /area/shuttle/gamma)
 "JW" = (
 /obj/machinery/suit_storage_unit/security,
 /obj/effect/turf_decal/stripes/end{
 	dir = 8
 	},
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "Lu" = (
 /obj/structure/sign/nanotrasen,
-/turf/closed/wall/mineral/titanium,
+/turf/closed/wall/mineral/plastitanium,
 /area/shuttle/gamma)
 "MG" = (
 /obj/structure/table/reinforced,
@@ -92,7 +92,7 @@
 	pixel_x = 4
 	},
 /obj/structure/extinguisher_cabinet/directional/west,
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "Nx" = (
 /obj/machinery/light/directional/east,
@@ -103,21 +103,21 @@
 	dir = 4
 	},
 /obj/structure/closet/secure_closet/gamma_armor,
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "NJ" = (
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "NW" = (
 /obj/machinery/light/directional/east,
-/turf/open/floor/catwalk_floor/titanium,
+/turf/open/floor/catwalk_floor/iron_white,
 /area/shuttle/gamma)
 "NX" = (
 /obj/machinery/suit_storage_unit/security,
 /obj/effect/turf_decal/stripes/end{
 	dir = 4
 	},
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "QK" = (
 /obj/machinery/power/shuttle_engine/heater,
@@ -137,14 +137,14 @@
 /obj/item/stock_parts/power_store/cell/hyper{
 	pixel_x = 4
 	},
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "UL" = (
 /obj/effect/turf_decal/stripes/red/end{
 	dir = 1
 	},
 /obj/structure/closet/secure_closet/gamma_bio,
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "Vv" = (
 /turf/template_noop,
@@ -154,7 +154,7 @@
 /obj/structure/window/reinforced/spawner/directional/north,
 /obj/structure/sign/warning/directional/east,
 /obj/effect/turf_decal/delivery/red,
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 
 (1,1,1) = {"
