@@ -74,7 +74,6 @@ export function FeatureDropdownInputCore(
   ) => void,
 ) {
   const { serverData, disabled, buttons, handleSetValue, value } = props;
-
   const [dropdownOptions, setDropdownOptions] = useState<DropdownOptions>([]);
 
   useEffect(() => {
@@ -84,7 +83,6 @@ export function FeatureDropdownInputCore(
   }, [serverData, populateOptions]);
 
   const displayText = serverData?.display_names?.[value] || String(value);
-
   return (
     <Dropdown
       buttons={buttons}
@@ -93,14 +91,12 @@ export function FeatureDropdownInputCore(
       displayText={displayText ? capitalizeFirst(displayText) : ''}
       options={dropdownOptions}
       selected={value}
-      width="100%"
     />
   );
 }
 
 export function FeatureIconnedDropdownInput(props: IconnedDropdownInputProps) {
   const { serverData, handleSetValue, value } = props;
-
   const [dropdownOptions, setDropdownOptions] = useState<DropdownOptions>([]);
 
   function populateOptions() {
@@ -108,7 +104,6 @@ export function FeatureIconnedDropdownInput(props: IconnedDropdownInputProps) {
     const { icons = {}, choices = [] } = serverData;
 
     const newOptions: DropdownOptions = [];
-
     for (const choice of choices) {
       let displayText: ReactNode = serverData.display_names?.[choice]
         ? serverData.display_names?.[choice]
@@ -144,7 +139,6 @@ export function FeatureIconnedDropdownInput(props: IconnedDropdownInputProps) {
   }, [serverData]);
 
   const displayText = serverData?.display_names?.[value] || String(value);
-
   return (
     <Dropdown
       buttons
