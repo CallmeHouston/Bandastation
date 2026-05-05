@@ -9950,7 +9950,7 @@ dative = "ягодам тводетсека"
 accusative = "ягоды тводетсека"
 instrumental = "ягодами тводетсека"
 prepositional = "ягодах тводетсека"
-gender = "female"
+gender = "plural"
 
 ["lanternfruit seed pack"]
 nominative = "лампофрукт (семена)"
