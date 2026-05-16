@@ -1,22 +1,16 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "bx" = (
-/obj/structure/table/reinforced,
-/obj/item/construction/rcd/loaded,
-/obj/item/construction/rcd/loaded{
-	pixel_y = 2
+/obj/item/book/bible/booze,
+/obj/item/book/bible/booze,
+/obj/item/clothing/suit/hooded/chaplain_hoodie,
+/obj/item/clothing/suit/hooded/chaplain_hoodie,
+/obj/item/clothing/under/misc/burial,
+/obj/item/clothing/under/misc/burial,
+/obj/structure/closet/crate{
+	name = "Religious Supplies Crate"
 	},
-/obj/item/construction/rcd/loaded{
-	pixel_y = 4
-	},
-/obj/item/rcd_ammo/large{
-	pixel_x = -8
-	},
-/obj/item/rcd_ammo/large{
-	pixel_x = -8
-	},
-/obj/item/rcd_ammo/large{
-	pixel_x = -8
-	},
+/obj/item/seeds/watermelon/holy,
+/obj/item/seeds/watermelon/holy,
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 "mE" = (
@@ -42,7 +36,7 @@
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 "vM" = (
-/turf/closed/wall/mineral/bronze,
+/turf/closed/wall/mineral/plastitanium,
 /area/shuttle/gamma)
 "wK" = (
 /obj/machinery/wall_healer/directional/west,
@@ -64,10 +58,9 @@
 /area/shuttle/gamma)
 "Lu" = (
 /obj/structure/sign/nanotrasen,
-/turf/closed/wall/mineral/bronze,
+/turf/closed/wall/mineral/plastitanium,
 /area/shuttle/gamma)
 "MG" = (
-/obj/structure/table/reinforced,
 /obj/item/storage/medkit/brute{
 	pixel_y = -8;
 	pixel_x = -4
@@ -92,6 +85,7 @@
 	pixel_x = 4
 	},
 /obj/structure/extinguisher_cabinet/directional/west,
+/obj/structure/table/wood/fancy/red,
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 "Nx" = (
@@ -125,7 +119,6 @@
 /turf/open/floor/plating/airless,
 /area/shuttle/gamma)
 "RO" = (
-/obj/structure/table/reinforced,
 /obj/machinery/cell_charger{
 	pixel_x = 2;
 	pixel_y = 12
@@ -137,6 +130,7 @@
 /obj/item/stock_parts/power_store/cell/hyper{
 	pixel_x = 4
 	},
+/obj/structure/table/wood/fancy/red,
 /turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 "UL" = (
