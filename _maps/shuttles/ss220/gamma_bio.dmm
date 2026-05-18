@@ -75,10 +75,10 @@
 /turf/open/floor/catwalk_floor/iron_white,
 /area/shuttle/gamma)
 "JW" = (
-/obj/machinery/suit_storage_unit/security,
 /obj/effect/turf_decal/stripes/end{
 	dir = 8
 	},
+/obj/machinery/suit_storage_unit/medical,
 /turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "Lu" = (
@@ -132,10 +132,10 @@
 /turf/open/floor/catwalk_floor/iron_white,
 /area/shuttle/gamma)
 "NX" = (
-/obj/machinery/suit_storage_unit/security,
 /obj/effect/turf_decal/stripes/end{
 	dir = 4
 	},
+/obj/machinery/suit_storage_unit/medical,
 /turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "QK" = (
