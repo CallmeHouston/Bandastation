@@ -1,23 +1,42 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "bx" = (
-/obj/structure/table/reinforced,
-/obj/item/construction/rcd/loaded,
-/obj/item/construction/rcd/loaded{
-	pixel_y = 2
+/obj/item/clothing/suit/bio_suit/security{
+	pixel_y = 4;
+	pixel_x = -5
 	},
-/obj/item/construction/rcd/loaded{
+/obj/item/clothing/suit/bio_suit/security{
+	pixel_x = -4
+	},
+/obj/item/clothing/suit/bio_suit/security{
+	pixel_y = -4;
+	pixel_x = -4
+	},
+/obj/item/clothing/head/bio_hood/security{
+	pixel_x = 4;
 	pixel_y = 4
 	},
-/obj/item/rcd_ammo/large{
-	pixel_x = -8
+/obj/item/clothing/head/bio_hood/security{
+	pixel_x = 4
 	},
-/obj/item/rcd_ammo/large{
-	pixel_x = -8
+/obj/item/clothing/head/bio_hood/security{
+	pixel_x = 4;
+	pixel_y = -4
 	},
-/obj/item/rcd_ammo/large{
-	pixel_x = -8
+/obj/item/reagent_containers/syringe/antiviral{
+	pixel_y = 8
 	},
-/turf/open/floor/mineral/titanium,
+/obj/item/reagent_containers/syringe/antiviral{
+	pixel_y = 4
+	},
+/obj/item/reagent_containers/syringe/antiviral,
+/obj/item/reagent_containers/syringe/antiviral{
+	pixel_y = -4
+	},
+/obj/item/reagent_containers/syringe/antiviral{
+	pixel_y = -8
+	},
+/obj/structure/table/reinforced/plastitaniumglass,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "mE" = (
 /obj/machinery/door/airlock/titanium{
@@ -30,8 +49,8 @@
 /area/shuttle/gamma)
 "qF" = (
 /obj/effect/turf_decal/stripes/red/end,
-/obj/structure/closet/secure_closet/gamma_shotgun,
-/turf/open/floor/mineral/titanium,
+/obj/structure/closet/secure_closet/gamma_weapon,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "sm" = (
 /obj/structure/tank_dispenser/oxygen,
@@ -39,35 +58,34 @@
 	dir = 1
 	},
 /obj/effect/turf_decal/stripes/line,
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "vM" = (
-/turf/closed/wall/mineral/titanium,
+/turf/closed/wall/mineral/plastitanium,
 /area/shuttle/gamma)
 "wK" = (
 /obj/machinery/wall_healer/directional/west,
-/turf/open/floor/catwalk_floor/titanium,
+/turf/open/floor/catwalk_floor/iron_white,
 /area/shuttle/gamma)
 "xL" = (
 /obj/machinery/power/shuttle_engine/propulsion,
 /turf/open/floor/plating/airless,
 /area/shuttle/gamma)
 "AK" = (
-/turf/open/floor/catwalk_floor/titanium,
+/turf/open/floor/catwalk_floor/iron_white,
 /area/shuttle/gamma)
 "JW" = (
-/obj/machinery/suit_storage_unit/security,
 /obj/effect/turf_decal/stripes/end{
 	dir = 8
 	},
-/turf/open/floor/mineral/titanium,
+/obj/machinery/suit_storage_unit/medical,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "Lu" = (
 /obj/structure/sign/nanotrasen,
-/turf/closed/wall/mineral/titanium,
+/turf/closed/wall/mineral/plastitanium,
 /area/shuttle/gamma)
 "MG" = (
-/obj/structure/table/reinforced,
 /obj/item/storage/medkit/brute{
 	pixel_y = -8;
 	pixel_x = -4
@@ -92,7 +110,8 @@
 	pixel_x = 4
 	},
 /obj/structure/extinguisher_cabinet/directional/west,
-/turf/open/floor/mineral/titanium,
+/obj/structure/table/reinforced/plastitaniumglass,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "Nx" = (
 /obj/machinery/light/directional/east,
@@ -102,22 +121,22 @@
 /obj/effect/turf_decal/stripes/red/line{
 	dir = 4
 	},
-/obj/structure/closet/secure_closet/gamma_weapon,
-/turf/open/floor/mineral/titanium,
+/obj/structure/closet/secure_closet/gamma_armor,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "NJ" = (
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "NW" = (
 /obj/machinery/light/directional/east,
-/turf/open/floor/catwalk_floor/titanium,
+/turf/open/floor/catwalk_floor/iron_white,
 /area/shuttle/gamma)
 "NX" = (
-/obj/machinery/suit_storage_unit/security,
 /obj/effect/turf_decal/stripes/end{
 	dir = 4
 	},
-/turf/open/floor/mineral/titanium,
+/obj/machinery/suit_storage_unit/medical,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "QK" = (
 /obj/machinery/power/shuttle_engine/heater,
@@ -125,7 +144,6 @@
 /turf/open/floor/plating/airless,
 /area/shuttle/gamma)
 "RO" = (
-/obj/structure/table/reinforced,
 /obj/machinery/cell_charger{
 	pixel_x = 2;
 	pixel_y = 12
@@ -137,14 +155,15 @@
 /obj/item/stock_parts/power_store/cell/hyper{
 	pixel_x = 4
 	},
-/turf/open/floor/mineral/titanium,
+/obj/structure/table/reinforced/plastitaniumglass,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "UL" = (
 /obj/effect/turf_decal/stripes/red/end{
 	dir = 1
 	},
-/obj/structure/closet/secure_closet/gamma_armor,
-/turf/open/floor/mineral/titanium,
+/obj/structure/closet/secure_closet/gamma_bio,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 "Vv" = (
 /turf/template_noop,
@@ -153,8 +172,8 @@
 /obj/machinery/power/port_gen/pacman/pre_loaded,
 /obj/structure/window/reinforced/spawner/directional/north,
 /obj/structure/sign/warning/directional/east,
-/obj/effect/turf_decal/delivery,
-/turf/open/floor/mineral/titanium,
+/obj/effect/turf_decal/delivery/red,
+/turf/open/floor/mineral/titanium/white,
 /area/shuttle/gamma)
 
 (1,1,1) = {"

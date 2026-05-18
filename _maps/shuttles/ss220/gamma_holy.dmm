@@ -1,23 +1,17 @@
 //MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
 "bx" = (
-/obj/structure/table/reinforced,
-/obj/item/construction/rcd/loaded,
-/obj/item/construction/rcd/loaded{
-	pixel_y = 2
+/obj/item/book/bible/booze,
+/obj/item/book/bible/booze,
+/obj/item/clothing/suit/hooded/chaplain_hoodie,
+/obj/item/clothing/suit/hooded/chaplain_hoodie,
+/obj/item/clothing/under/misc/burial,
+/obj/item/clothing/under/misc/burial,
+/obj/structure/closet/crate{
+	name = "Religious Supplies Crate"
 	},
-/obj/item/construction/rcd/loaded{
-	pixel_y = 4
-	},
-/obj/item/rcd_ammo/large{
-	pixel_x = -8
-	},
-/obj/item/rcd_ammo/large{
-	pixel_x = -8
-	},
-/obj/item/rcd_ammo/large{
-	pixel_x = -8
-	},
-/turf/open/floor/mineral/titanium,
+/obj/item/seeds/watermelon/holy,
+/obj/item/seeds/watermelon/holy,
+/turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 "mE" = (
 /obj/machinery/door/airlock/titanium{
@@ -29,9 +23,9 @@
 /turf/open/floor/plating,
 /area/shuttle/gamma)
 "qF" = (
-/obj/effect/turf_decal/stripes/red/end,
 /obj/structure/closet/secure_closet/gamma_shotgun,
-/turf/open/floor/mineral/titanium,
+/obj/effect/turf_decal/stripes/end,
+/turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 "sm" = (
 /obj/structure/tank_dispenser/oxygen,
@@ -39,35 +33,34 @@
 	dir = 1
 	},
 /obj/effect/turf_decal/stripes/line,
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 "vM" = (
-/turf/closed/wall/mineral/titanium,
+/turf/closed/wall/mineral/plastitanium,
 /area/shuttle/gamma)
 "wK" = (
 /obj/machinery/wall_healer/directional/west,
-/turf/open/floor/catwalk_floor/titanium,
+/turf/open/floor/glass/reinforced,
 /area/shuttle/gamma)
 "xL" = (
 /obj/machinery/power/shuttle_engine/propulsion,
 /turf/open/floor/plating/airless,
 /area/shuttle/gamma)
 "AK" = (
-/turf/open/floor/catwalk_floor/titanium,
+/turf/open/floor/glass/reinforced,
 /area/shuttle/gamma)
 "JW" = (
 /obj/machinery/suit_storage_unit/security,
 /obj/effect/turf_decal/stripes/end{
 	dir = 8
 	},
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 "Lu" = (
 /obj/structure/sign/nanotrasen,
-/turf/closed/wall/mineral/titanium,
+/turf/closed/wall/mineral/plastitanium,
 /area/shuttle/gamma)
 "MG" = (
-/obj/structure/table/reinforced,
 /obj/item/storage/medkit/brute{
 	pixel_y = -8;
 	pixel_x = -4
@@ -92,32 +85,33 @@
 	pixel_x = 4
 	},
 /obj/structure/extinguisher_cabinet/directional/west,
-/turf/open/floor/mineral/titanium,
+/obj/structure/table/wood/fancy/red,
+/turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 "Nx" = (
 /obj/machinery/light/directional/east,
-/obj/effect/turf_decal/stripes/red/line{
+/obj/structure/closet/secure_closet/gamma_weapon,
+/obj/effect/turf_decal/stripes/line{
 	dir = 8
 	},
-/obj/effect/turf_decal/stripes/red/line{
+/obj/effect/turf_decal/stripes/line{
 	dir = 4
 	},
-/obj/structure/closet/secure_closet/gamma_weapon,
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 "NJ" = (
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 "NW" = (
 /obj/machinery/light/directional/east,
-/turf/open/floor/catwalk_floor/titanium,
+/turf/open/floor/glass/reinforced,
 /area/shuttle/gamma)
 "NX" = (
 /obj/machinery/suit_storage_unit/security,
 /obj/effect/turf_decal/stripes/end{
 	dir = 4
 	},
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 "QK" = (
 /obj/machinery/power/shuttle_engine/heater,
@@ -125,7 +119,6 @@
 /turf/open/floor/plating/airless,
 /area/shuttle/gamma)
 "RO" = (
-/obj/structure/table/reinforced,
 /obj/machinery/cell_charger{
 	pixel_x = 2;
 	pixel_y = 12
@@ -137,14 +130,15 @@
 /obj/item/stock_parts/power_store/cell/hyper{
 	pixel_x = 4
 	},
-/turf/open/floor/mineral/titanium,
+/obj/structure/table/wood/fancy/red,
+/turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 "UL" = (
-/obj/effect/turf_decal/stripes/red/end{
+/obj/structure/closet/secure_closet/gamma_holy,
+/obj/effect/turf_decal/stripes/end{
 	dir = 1
 	},
-/obj/structure/closet/secure_closet/gamma_armor,
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 "Vv" = (
 /turf/template_noop,
@@ -154,7 +148,7 @@
 /obj/structure/window/reinforced/spawner/directional/north,
 /obj/structure/sign/warning/directional/east,
 /obj/effect/turf_decal/delivery,
-/turf/open/floor/mineral/titanium,
+/turf/open/floor/mineral/plastitanium,
 /area/shuttle/gamma)
 
 (1,1,1) = {"
