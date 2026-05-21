@@ -280,7 +280,7 @@ def translate_changelog(changelog: typing.Dict[int, list[Change]]):
             {"role": "system", "content": context},
             {"role": "user", "content": text}
         ],
-        model="openai/gpt-5-mini",
+        model="openai/gpt-4.1-mini",
     )
     translated_text: str | None = response.choices[0].message.content
 
