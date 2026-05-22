@@ -1,8 +1,16 @@
 ///This element allows the item it's attached to be bound to oneself's arm with a pair of handcuffs (sold separately). Borgs need not to apply
+#define CUFFABLE_ITEMS_DISABLED // BANDASTATION TODO: revert this when the bugs will be fixed in upstream
+
 /datum/element/cuffable_item
 
 /datum/element/cuffable_item/Attach(datum/target)
 	. = ..()
+
+// BANDASTATION MOD START: Temp cuffable remove
+#ifdef CUFFABLE_ITEMS_DISABLED
+	return
+#endif
+// BANDASTATION MOD END: Temp cuffable remove
 
 	if(!isitem(target))
 		return ELEMENT_INCOMPATIBLE
