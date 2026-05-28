@@ -15832,6 +15832,7 @@
 	dir = 10
 	},
 /obj/machinery/duct,
+/obj/machinery/light/directional/north,
 /turf/open/floor/iron/dark,
 /area/station/service/hydroponics)
 "dNF" = (
@@ -38400,9 +38401,6 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /turf/open/floor/iron,
 /area/station/commons/fitness)
-"jrl" = (
-/turf/open/space/basic,
-/area/station/service/hydroponics)
 "jro" = (
 /obj/structure/cable,
 /obj/structure/disposalpipe/segment,
@@ -48894,9 +48892,11 @@
 /turf/open/floor/iron,
 /area/station/maintenance/department/medical/ghetto)
 "lRd" = (
-/obj/machinery/light/directional/south,
-/turf/open/floor/iron/dark,
-/area/station/service/hydroponics)
+/obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
+/obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
+/obj/machinery/firealarm/directional/north,
+/turf/open/floor/plating,
+/area/station/maintenance/department/security/ghetto/aft)
 "lRk" = (
 /obj/structure/cable,
 /obj/structure/extinguisher_cabinet/directional/east,
@@ -74234,6 +74234,7 @@
 /obj/effect/turf_decal/delivery,
 /obj/structure/window/reinforced/spawner/directional/south,
 /obj/machinery/door/window/right/directional/east,
+/obj/structure/window/reinforced/spawner/directional/west,
 /turf/open/floor/iron/dark,
 /area/station/service/hydroponics)
 "seo" = (
@@ -133295,7 +133296,7 @@ jRX
 aLe
 aLe
 aLe
-kKp
+lRd
 aTK
 otf
 xFn
@@ -203722,7 +203723,7 @@ vix
 sjU
 rFc
 dRD
-vix
+nrH
 nrH
 nrH
 nrH
@@ -203980,7 +203981,7 @@ vix
 iii
 dRD
 nrH
-jrl
+lnG
 teP
 jWd
 nrH
@@ -205010,7 +205011,7 @@ wRN
 nrH
 nih
 frW
-lRd
+byC
 nrH
 fDQ
 uDi
@@ -205267,7 +205268,7 @@ wRN
 nrH
 jgw
 jki
-lnG
+byC
 nrH
 aNY
 fxO
